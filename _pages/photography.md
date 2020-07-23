@@ -14,7 +14,7 @@ header:
 
 test 1 
 
-<a href="./salfeinerSee.md">Salfeiner See</a>
+<a href="./salfeinerSee/">Salfeiner See</a>
 
 
 test ready

@@ -8,7 +8,7 @@ main:
     url: /photography/
     children:
       - title: "Salfeiner See"
-        url: /salfeinerSee/
+        url: /photography/salfeinerSee/
       - title: "/South America on Skis"
         url: /saos/
   # - title: "Sample Collections"
