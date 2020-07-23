@@ -1,5 +1,5 @@
 ---
-permalink: /photography/salfeinerSee
+permalink: /salfeinerSee/
 author_profile: false
 title: "Salfeiner See"
 header: 
