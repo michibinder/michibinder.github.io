@@ -1,10 +1,9 @@
 ---
-layout: archive
-permalink: /photography_projects/
+permalink: /photography/salfeinerSee
 author_profile: false
-title: "Photography Projects"
+title: "Salfeiner See"
 header: 
-    image: "/images/salfeinerSeeNight.jpg"
+    image: "/images/salfeinerSeeSunset.jpg"
 
 gallery:
   - url: /images/salfeinerSeeSunset.jpg
@@ -19,6 +18,8 @@ gallery:
     image_path: /images/salfeinerSeeSunset.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"
+
+classes: wide
 
 ---
 

@@ -2,10 +2,15 @@
 main:
   - title: "About"
     url: /about/
-  - title: "CORAL"
-    url: /CORAL/
-  - title: "Photography Projects"
-    url: /photography_projects/
+  - title: "Research"
+    url: /research/
+  - title: "Photography"
+    url: /photography/
+    children:
+      - title: "Salfeiner See"
+        url: /salfeinerSee/
+      - title: "/South America on Skis"
+        url: /saos/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
