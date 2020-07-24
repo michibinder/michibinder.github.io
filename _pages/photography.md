@@ -7,6 +7,7 @@ title: "Photography"
 layout: collection
 collection: portfolio
 entries_layout: grid
+toc: true
 
 header: 
     image: "/images/salfeinerSeeSunset.jpg"

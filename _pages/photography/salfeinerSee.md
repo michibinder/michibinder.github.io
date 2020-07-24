@@ -1,7 +1,9 @@
 ---
-permalink: /salfeinerSee/
+permalink: /photography/salfeinerSee/
 author_profile: false
 title: "Salfeiner See"
+layout: splash
+
 header: 
     image: "/images/salfeinerSeeSunset.jpg"
 
@@ -19,7 +21,7 @@ gallery:
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 
-classes: wide
+# classes: wide
 
 ---
 
