@@ -15,6 +15,9 @@ header:
 
 test 1 
 
+[![Salfeiner See](/images/salfeinerSeeSunset.jpg)](./salfeinerSee/ "Redirect to homepage")
+
+
 <a href="./salfeinerSee/">Salfeiner See</a>
 
 
