@@ -2,12 +2,12 @@
 # Maybee Media (Photos and Videos)
 # layout: archive
 permalink: /photography/
-author_profile: true
+author_profile: false
 title: "Photography"
-layout: archive-single
-collection: portfolio
-type: grid
-toc: true
+layout: splash
+# collection: portfolio
+# type: grid
+# toc: true
 
 header: 
     image: "/images/salfeinerSeeSunset.jpg"
