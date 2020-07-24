@@ -20,9 +20,8 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /images/salfeinerSeeSunset.jpg
     alt: "sdölkdadökd"
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     url: "photography/salfeinerSee/"
-    title: "Placeholder 3"
+    title: "Salfeiner See"
   - image_path: /images/salfeinerSeeSunset.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
