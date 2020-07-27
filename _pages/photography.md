@@ -10,7 +10,7 @@ layout: splash
 # toc: true
 
 header: 
-    image: "/images/header_images/kalkkögel_night.jpg"
+    overlay_image: "/images/header_images/kalkkögel_night.jpg"
 
 feature_row:
   - image_path: /images/salfeiner_see/image-1.jpg
