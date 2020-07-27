@@ -7,7 +7,7 @@ excerpt: ""
 tagline: "Famous Kalkögel framed from the **Salfeiner See**."
 # classes: wide
 header: 
-    overlay_image: "/header_images/kalkkögel_sunset.jpg"
+    overlay_image: "/images/header_images/kalkkögel_sunset.jpg"
 
 gallery:
   - url: /images/salfeiner_see/image-1.jpg
