@@ -3,10 +3,12 @@ permalink: /photography/salfeinerSee/
 author_profile: false
 title: "Salfeiner See"
 layout: splash
+excerpt: "THis post sjhol [...]"
+tagline: "Sunset hike to **Salfeiner See**"
 
-# header: 
-#     image: "/images/salfeinerSeeSunset.jpg"
-
+header: 
+    overlay_image: "/images/salfeinerSeeSunset.jpg"
+    
 gallery:
   - url: /images/salfeinerSeeSunset.jpg
     image_path: /images/salfeinerSeeSunset.jpg
@@ -25,10 +27,4 @@ gallery:
 
 ---
 
-Copy the code below and put it on the page where your projects will all be listed.
-In my example video, that page is the file.
-
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
-
-
-test ready

@@ -30,10 +30,9 @@ feature_row:
 
 {% include feature_row %}
 
+<!-- 
+
 [![Salfeiner See](/images/salfeinerSeeSunset.jpg)](./salfeinerSee/ "Redirect to homepage")
-
-
 <a href="./salfeinerSee/">Salfeiner See</a>
 
-
-test ready
+-->
