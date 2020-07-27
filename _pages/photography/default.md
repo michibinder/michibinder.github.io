@@ -7,7 +7,7 @@ excerpt: "THis post sjhol [...]"
 tagline: "Sunset hike to **Salfeiner See**"
 # classes: wide
 header: 
-    overlay_image: "/header_image/kalkkögel_sunset.jpg"
+    overlay_image: "/header_images/kalkkögel_sunset.jpg"
 
 gallery:
   - url: /images/salfeiner_see/image-1.jpg

@@ -7,7 +7,7 @@ excerpt: ""
 tagline: "Famous Kalkögel framed from the **Salfeiner See**."
 # classes: wide
 header: 
-    overlay_image: "/header_image/kalkkögel_sunset.jpg"
+    overlay_image: "/header_images/kalkkögel_sunset.jpg"
 
 gallery:
   - url: /images/salfeiner_see/image-1.jpg
@@ -32,14 +32,6 @@ gallery:
     image_path: /images/salfeiner_see/image-10.jpg
   - url: /images/salfeiner_see/image-11.jpg
     image_path: /images/salfeiner_see/image-11.jpg
-  - url: /images/salfeiner_see/image-12.jpg
-    image_path: /images/salfeiner_see/image-12.jpg
-  - url: /images/salfeiner_see/image-13.jpg
-    image_path: /images/salfeiner_see/image-13.jpg
-  - url: /images/salfeiner_see/image-14.jpg
-    image_path: /images/salfeiner_see/image-14.jpg
-    # alt: "placeholder image 3"
-    # title: "Image 3 title caption"
 
 ---
 
