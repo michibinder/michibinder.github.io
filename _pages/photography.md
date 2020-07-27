@@ -10,22 +10,20 @@ layout: splash
 # toc: true
 
 header: 
-    image: "/images/salfeinerSeeSunset.jpg"
+    image: "/header_image/kalkkögel_night.jpg"
 
 feature_row:
-  - image_path: /images/salfeinerSeeSunset.jpg
-    alt: "sdölkdadökd"
-    title: "Salfeiner See"
+  - image_path: /images/salfeiner_see/image-1.jpg
+    # alt: "Alternative text"
+    # title: "Salfeiner See"
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /images/salfeinerSeeSunset.jpg
-    alt: "sdölkdadökd"
-    url: "photography/salfeinerSee/"
+    # excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /images/salfeiner_see/image-6.jpg
     image_title: "Salfeiner See"
-  - image_path: /images/salfeinerSeeSunset.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-
+    url: "photography/salfeinerSee/"
+  - image_path: /images/salfeiner_see/image-10.jpg
+    image_title: "Salfeiner See"
+    url: "photography/salfeinerSee/"
 ---
 
 {% include feature_row %}

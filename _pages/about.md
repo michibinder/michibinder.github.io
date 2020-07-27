@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header: 
-    image: "/images/salfeinerSeeSunset.jpg"
+    image: "/header_image/kalkkögel_morning.jpg"
 ---
 
 I am a research assistant at the institute for physiscs of the atmosphere at the DLR, Oberpfaffenhofen
