@@ -131,6 +131,23 @@
   font-size: $type-size-8;
   background: #000; */
   font-family: $sans-serif-narrow;
+  line-height: initial;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  a[rel="permalink"]::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+  }
+
+  a + a {
+    opacity: 0.5;
+  }
+
   text-align: right;
   z-index: 5;
   opacity: 0.5;

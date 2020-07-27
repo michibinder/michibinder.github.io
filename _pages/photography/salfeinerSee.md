@@ -4,8 +4,8 @@ author_profile: false
 title: "Salfeiner See"
 layout: splash
 
-header: 
-    image: "/images/salfeinerSeeSunset.jpg"
+# header: 
+#     image: "/images/salfeinerSeeSunset.jpg"
 
 gallery:
   - url: /images/salfeinerSeeSunset.jpg
@@ -28,7 +28,7 @@ gallery:
 Copy the code below and put it on the page where your projects will all be listed.
 In my example video, that page is the file.
 
-{% include gallery class="full" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 
 test ready
