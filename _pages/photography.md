@@ -21,7 +21,7 @@ feature_row:
   - image_path: /images/salfeinerSeeSunset.jpg
     alt: "sdölkdadökd"
     url: "photography/salfeinerSee/"
-    title: "Salfeiner See"
+    image_title: "Salfeiner See"
   - image_path: /images/salfeinerSeeSunset.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."

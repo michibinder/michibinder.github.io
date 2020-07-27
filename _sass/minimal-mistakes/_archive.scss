@@ -120,6 +120,32 @@
   }
 }
 
+.archive__item-caption_title {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 0 auto;
+  padding: 2px 5px;
+  color: #fff;
+  /* font-family: $caption-font-family;
+  font-size: $type-size-8;
+  background: #000; */
+  font-family: $sans-serif-narrow;
+  text-align: right;
+  z-index: 5;
+  opacity: 0.5;
+  border-radius: $border-radius 0 0 0;
+
+  @include breakpoint($large) {
+    padding: 5px 10px;
+  }
+
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+}
+
 /*
    List view
    ========================================================================== */
