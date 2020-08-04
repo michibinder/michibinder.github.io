@@ -15,8 +15,9 @@ header:
 feature_row:
   - image_path: /images/salfeiner_see/image-1.jpg
     # alt: "Alternative text"
-    # title: "Salfeiner See"
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    image_title: "South America on Skis"
+    url: "photography/salfeinerSee/"
+    # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     # excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /images/salfeiner_see/image-6.jpg
     image_title: "Salfeiner See"
