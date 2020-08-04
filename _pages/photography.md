@@ -13,17 +13,17 @@ header:
     overlay_image: "/images/header_images/kalkkögel_night.jpg"
 
 feature_row:
-  - image_path: /images/salfeiner_see/image-1.jpg
+  - image_path: /images/south_america/image-2.jpg
     # alt: "Alternative text"
     image_title: "South America on Skis"
-    url: "photography/salfeinerSee/"
+    url: "photography/southAmerica/"
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     # excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /images/salfeiner_see/image-6.jpg
     image_title: "Salfeiner See"
     url: "photography/salfeinerSee/"
   - image_path: /images/salfeiner_see/image-10.jpg
-    image_title: "Salfeiner See"
+    image_title: "Lightning"
     url: "photography/salfeinerSee/"
 ---
 
