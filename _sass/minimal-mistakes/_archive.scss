@@ -267,9 +267,9 @@
 
 .feature__wrapper {
   @include clearfix();
-  margin-bottom: 20em;
+  margin-bottom: 2em;
   border-bottom: 20px; /* solid $border-color; 2em und px*/
-  border-bottom-color: red;
+  /* border-bottom-color: red; */
 
   .archive__item-title {
     margin-bottom: 0;
