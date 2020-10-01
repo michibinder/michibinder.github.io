@@ -4,7 +4,7 @@
 permalink: /photography/
 author_profile: false
 title: "Photography"
-layout: splash
+layout: archive
 # collection: portfolio
 # type: grid
 # toc: true
