@@ -1,5 +1,5 @@
 ---
-permalink: /photography/salfeinerSee/
+permalink: /photography/snow/
 author_profile: false
 title: "Snow"
 layout: splash

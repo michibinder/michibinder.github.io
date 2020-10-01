@@ -25,12 +25,14 @@ feature_row:
   - image_path: /images/storms/image-1.jpg
     image_title: "Storms"
     url: "photography/storms/"
+feature_row_2:
   - image_path: /images/ski/image-5.jpg
     image_title: "Ski"
     url: "photography/ski/"
 ---
 
 {% include feature_row %}
+{% include feature_row_2 %}
 
 <!-- 
 
