@@ -1,5 +1,5 @@
 ---
-permalink: /photography/snow/
+permalink: /photography/sno
 author_profile: false
 title: "Snow"
 layout: splash
