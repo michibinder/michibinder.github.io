@@ -30,6 +30,9 @@ feature_row2:
   - image_path: /images/ski/image-5.jpg
     image_title: "Ski"
     url: "photography/ski/"
+  - image_path: /images/slackline/image-5.jpg
+    image_title: "Slackline"
+    url: "photography/slackline/"
 ---
 
 {% include feature_row %}
