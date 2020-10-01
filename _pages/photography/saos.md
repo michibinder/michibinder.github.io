@@ -57,10 +57,10 @@ gallery:
     image_path: /images/south_america/image-23.jpg
   - url: /images/south_america/image-24.jpg
     image_path: /images/south_america/image-24.jpg
-  - url: /images/south_america/image-25.jpg
-    image_path: /images/south_america/image-25.jpg
-  # - url: /images/south_america/image-26.jpg
-  #   image_path: /images/south_america/image-26.jpg
+  # - url: /images/south_america/image-25.jpg
+  #   image_path: /images/south_america/image-25.jpg
+  - url: /images/south_america/image-26.jpg
+    image_path: /images/south_america/image-26.jpg
   - url: /images/south_america/image-27.jpg
     image_path: /images/south_america/image-27.jpg
   - url: /images/south_america/image-28.jpg

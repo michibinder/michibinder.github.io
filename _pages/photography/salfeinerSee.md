@@ -4,7 +4,7 @@ author_profile: false
 title: "Salfeiner See"
 layout: splash
 excerpt: ""
-tagline: "Famous Kalkögel framed from the **Salfeiner See**."
+tagline: "The **Kalkögel** framed from the **Salfeiner See**."
 # classes: wide
 header: 
     overlay_image: "/images/header_images/kalkkögel_sunset.jpg"
