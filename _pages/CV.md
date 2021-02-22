@@ -74,12 +74,12 @@ Skills
 --------------------
 Programming languages & tools
 
-<p class="atab">
+<p class="list-inline dev-icons atab">
     <a href="https://www.python.org"  >
-        <img src="../images/icons/python.png" class="icon" alt="Python" />
+        <img src="../images/icons/python.png" width=12% alt="Python" />
     </a>
     <a href="https://www.mathworks.com/products/matlab.html"  >
-        <img src="../images/icons/matlab.png" alt="Matlab" class="icon" /> 
+        <img src="../images/icons/matlab.png" alt="Matlab" width=12% /> 
     </a>
 </p>
 
