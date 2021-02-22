@@ -73,8 +73,7 @@ Tutor of programming lab for electrical engineering students (2015)
 Skills
 --------------------
 Programming languages & tools
-{%
-    <ul class="list-inline dev-icons"  style="padding-bottom: 20pt">
+{%  <ul class="list-inline dev-icons"  style="padding-bottom: 20pt">
         <li class="list-inline-item">
         <a href="https://www.python.org"  >
             <img src="images/icons/python.png" class="icon" alt="Python">
@@ -120,8 +119,7 @@ Programming languages & tools
             <img src="icons/finalcut.png" class="icon" alt="Final Cut Pro">
         </a>
         </li>
-    </ul>
-%}
+    </ul> %}
 
 
 Honors & Achievements
