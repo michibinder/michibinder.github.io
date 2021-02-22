@@ -28,6 +28,13 @@
     margin-left: -0.5em; /* override for hidden text*/
   }
 
+  .atab {
+    tab-size:30; 
+    -moz-tab-size:30; 
+    -ms-tab-size:30;
+    white-space: pre;
+  }
+  
   .dev-icons {
     font-size: 3rem;
     .list-inline-item i {
