@@ -5,30 +5,39 @@ header:
     overlay_image: "/images/header_images/kalkkögel_morning.jpg"
 ---
 
-
-Johnny Coder
+<!--
+Michael Binder
 ============
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+
+
+-->
+
+Affiliation
+---------
+2019-present
+:   **Research assistant**; Institute for physiscs of the atmosphere (IPA), DLR Oberpfaffenhofen
+    *Master thesis: Numerical simulations of deeply propagating mountain waves above the Andes*
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2019-2021 (expected)
+:   **MA, Atmospheric Sciences**; University of Innsbruck
+    *Thesis title: Numerical simulations of deeply propagating mountain waves above the Andes*
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2012-2013
+:   **BSc, Electrical Engineering**; University of Kentucky, Lexington, KY
 
-    *Minor: Awesomeology*
+    *GPA: 3.9*
+
+2000-2012
+:   **General education (Abitur)**; Geschwister-Scholl-Schule, Tübingen
+
+    *Grade: 1.5*
+
+
 
 Experience
 ----------
