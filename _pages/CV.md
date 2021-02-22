@@ -75,49 +75,14 @@ Skills
 Programming languages & tools
 {%  <ul class="list-inline dev-icons"  style="padding-bottom: 20pt">
         <li class="list-inline-item">
-        <a href="https://www.python.org"  >
-            <img src="images/icons/python.png" class="icon" alt="Python">
-        </a>
+            <a href="https://www.python.org"  >
+                <img src="images/icons/python.png" class="icon" alt="Python">
+            </a>
         </li>
         <li class="list-inline-item">
-        <a href="https://isocpp.org"  >
-            <img src="images/icons/cplusplus.png" class="icon" alt="C++">
-        </a>
-        </li>
-        <li class="list-inline-item">
-        <a href="https://www.mathworks.com/products/matlab.html"  >
-            <img src="images/icons/matlab.png" class="icon" alt="Matlab">
-        </a>
-        </li>
-        <li class="list-inline-item">
-        <a href="https://www.sqlite.org/index.html"  >
-            <img src="icons/sqlite.png" class="icon" alt="SQLite3">
-        </a>
-        </li>
-        <li class="list-inline-item">
-        <a href="https://en.wikipedia.org/wiki/JavaScript"  >
-            <img src="icons/javascript.svg" class="icon" alt="JS">
-        </a>
-        </li>
-        <li class="list-inline-item">
-        <a href="https://www.w3.org/TR/html53/"  >
-            <img src="icons/html5.png" class="icon" alt="HTML5">
-        </a>
-        </li>
-        <li class="list-inline-item">
-        <a href="https://keras.io"  >
-            <img src="icons/keras.png" class="icon" alt="Keras">
-        </a>
-        </li>
-        <li class="list-inline-item">
-        <a href="https://www.solidworks.com"  >
-            <img src="icons/Solidworks.png" class="icon" alt="Solidworks">
-        </a>
-        </li>
-        <li class="list-inline-item">
-        <a href="https://www.apple.com/final-cut-pro/"  >
-            <img src="icons/finalcut.png" class="icon" alt="Final Cut Pro">
-        </a>
+            <a href="https://www.mathworks.com/products/matlab.html"  >
+                <img src="images/icons/matlab.png" class="icon" alt="Matlab">
+            </a>
         </li>
     </ul> %}
 
