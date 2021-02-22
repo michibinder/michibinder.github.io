@@ -75,22 +75,22 @@ Skills
 Programming languages & tools
 
 <p float="left">
-  <img src="../images/icons/python.png" class="icon" alt="Python" width="20%" />
-  <img src="../images/icons/matlab.png" class="icon" alt="Python"width="20%" /> 
+  <img src="../images/icons/python.png" class="icon" alt="Python" width="40%" />
+  <img src="../images/icons/matlab.png" class="icon" alt="Python" width="40%" /> 
 </p>
 
-<!-->
-<ul class="list-inline dev-icons"  style="padding-bottom: 20pt">
-    <li class="list-inline-item">
-    <a href="https://www.python.org"  >
-        <img src="../images/icons/python.png" class="icon" alt="Python">
-    </a>
-    <a href="https://www.mathworks.com/products/matlab.html"  >
-        <img src="../images/icons/matlab.png" class="icon" alt="Matlab">
-    </a>
-    </li>
-</ul>
-<-->
+<!--
+    <ul class="list-inline dev-icons"  style="padding-bottom: 20pt">
+        <li class="list-inline-item">
+        <a href="https://www.python.org"  >
+            <img src="../images/icons/python.png" class="icon" alt="Python">
+        </a>
+        <a href="https://www.mathworks.com/products/matlab.html"  >
+            <img src="../images/icons/matlab.png" class="icon" alt="Matlab">
+        </a>
+        </li>
+    </ul>
+-->
 
 Honors & Achievements
 --------------------
