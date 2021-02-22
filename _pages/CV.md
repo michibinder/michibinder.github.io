@@ -16,7 +16,7 @@ Michael Binder
 Affiliation
 ---------
 2019-present
-:   **Research assistant**; Institute for physiscs of the atmosphere (IPA), DLR Oberpfaffenhofen
+:   **Research assistant** at the institute for physiscs of the atmosphere (IPA), DLR Oberpfaffenhofen
     
     *Master thesis: Numerical simulations of deeply propagating mountain waves above the Andes*
 
@@ -29,22 +29,22 @@ Academic education
     *Thesis title: Numerical simulations of deeply propagating mountain waves above the Andes*
 
 
-2014-2018
-:   **BSc, Aerospace Engineering**; University of Stuttgart, BW
+2014-2018 **BSc, Aerospace Engineering**
+:   University of Stuttgart, BW
     
     *Thesis title: FFI and WFI upgrade for SOFIA - preparation for environmental testing of the optics and on-sky tests*
     
-    *Grade: 1.5*
+    Grade: 1.5
 
 2012-2014
 :   **BSc, Electrical Engineering**; University of New Orleans & University of Kentucky
 
-    *GPA: 3.9*
+    GPA: 3.9
 
 2000-2012
 :   **General education (Abitur)**; Geschwister-Scholl-Schule, Tübingen
 
-    *Grade: 1.5*
+    Grade: 1.5
 
 
 Further education
