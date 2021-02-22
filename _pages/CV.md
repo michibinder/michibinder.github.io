@@ -76,7 +76,7 @@ Programming languages & tools
 
 <p class="list-inline dev-icons atab">
     <a href="https://www.python.org"  >
-        <img src="../images/icons/python.png" width=12% alt="Python" />
+        <img src="../images/icons/python.png" alt="Python" width=12% />
     </a>
     <a href="https://www.mathworks.com/products/matlab.html"  >
         <img src="../images/icons/matlab.png" alt="Matlab" width=12% /> 
