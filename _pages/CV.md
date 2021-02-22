@@ -76,10 +76,10 @@ Programming languages & tools
 
 <p class="list-inline dev-icons atab">
     <a href="https://www.python.org"  >
-        <img src="../images/icons/python.png" alt="Python" style="width: 20%;" />
+        <img src="../images/icons/python.png" alt="Python" style="width: 12%; margin:2%;" />
     </a>
     <a href="https://www.mathworks.com/products/matlab.html"  >
-        <img src="../images/icons/matlab.png" alt="Matlab" style="width: 20%;" /> 
+        <img src="../images/icons/matlab.png" alt="Matlab" style="width: 12%; margin:2%;" /> 
     </a>
 </p>
 
