@@ -28,6 +28,15 @@
     margin-left: -0.5em; /* override for hidden text*/
   }
 
+  .dev-icons {
+    font-size: 3rem;
+    .list-inline-item i {
+      &:hover {
+        color: $gray;
+      }
+    }
+  }
+
   /* button colors */
   $buttoncolors:
   (primary, $primary-color),
