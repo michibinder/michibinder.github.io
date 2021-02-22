@@ -17,6 +17,7 @@ Affiliation
 ---------
 2019-present
 :   **Research assistant**; Institute for physiscs of the atmosphere (IPA), DLR Oberpfaffenhofen
+    
     *Master thesis: Numerical simulations of deeply propagating mountain waves above the Andes*
 
 Academic education
@@ -24,12 +25,15 @@ Academic education
 
 2019-2021 (expected)
 :   **MSc, Atmospheric Sciences**; University of Innsbruck
+    
     *Thesis title: Numerical simulations of deeply propagating mountain waves above the Andes*
 
 
 2014-2018
 :   **BSc, Aerospace Engineering**; University of Stuttgart, BW
+    
     *Thesis title: FFI and WFI upgrade for SOFIA - preparation for environmental testing of the optics and on-sky tests*
+    
     *Grade: 1.5*
 
 2012-2014
@@ -41,7 +45,6 @@ Academic education
 :   **General education (Abitur)**; Geschwister-Scholl-Schule, Tübingen
 
     *Grade: 1.5*
-
 
 
 Further education
@@ -70,15 +73,65 @@ Tutor of programming lab for electrical engineering students (2015)
 Skills
 --------------------
 Programming languages & tools
+{%
+    <ul class="list-inline dev-icons"  style="padding-bottom: 20pt">
+        <li class="list-inline-item">
+        <a href="https://www.python.org"  >
+            <img src="icons/python.png" class="icon" alt="Python">
+        </a>
+        </li>
+        <li class="list-inline-item">
+        <a href="https://isocpp.org"  >
+            <img src="icons/cplusplus.png" class="icon" alt="C++">
+        </a>
+        </li>
+        <li class="list-inline-item">
+        <a href="https://www.mathworks.com/products/matlab.html"  >
+            <img src="icons/matlab.png" class="icon" alt="Matlab">
+        </a>
+        </li>
+        <li class="list-inline-item">
+        <a href="https://www.sqlite.org/index.html"  >
+            <img src="icons/sqlite.png" class="icon" alt="SQLite3">
+        </a>
+        </li>
+        <li class="list-inline-item">
+        <a href="https://en.wikipedia.org/wiki/JavaScript"  >
+            <img src="icons/javascript.svg" class="icon" alt="JS">
+        </a>
+        </li>
+        <li class="list-inline-item">
+        <a href="https://www.w3.org/TR/html53/"  >
+            <img src="icons/html5.png" class="icon" alt="HTML5">
+        </a>
+        </li>
+        <li class="list-inline-item">
+        <a href="https://keras.io"  >
+            <img src="icons/keras.png" class="icon" alt="Keras">
+        </a>
+        </li>
+        <li class="list-inline-item">
+        <a href="https://www.solidworks.com"  >
+            <img src="icons/Solidworks.png" class="icon" alt="Solidworks">
+        </a>
+        </li>
+        <li class="list-inline-item">
+        <a href="https://www.apple.com/final-cut-pro/"  >
+            <img src="icons/finalcut.png" class="icon" alt="Final Cut Pro">
+        </a>
+        </li>
+    </ul>
+%}
 
 
 Honors & Achievements
 --------------------
 
 2017-2018
-:   * scholarship Baden-Württemberg foundation
-    * scholarship Herman-Reissner foundation
-    * scholarship by Walter-Blohm foundation
+:   BSc thesis within **SOFIA** at **NASA ARC**
+    * scholarship of the **Baden-Württemberg foundation**
+    * scholarship of the **Herman-Reissner foundation**
+    * scholarship of the **Walter-Blohm foundation**
 
 2016-2017
 :   **Deutschlandstipendium (scholarship)**; University of Stuttgart
@@ -89,8 +142,8 @@ Honors & Achievements
     * **Academic Honor Roll** of SEC; University of Kentucky
 
 2005-2012
-:   * **DTB C-Squad** (National youth team)
-    * 3. place German championship singles and doubles (2008)
+:   * **DTB C-Squad** (National tennis youth team)
+    * Third place German championship singles and doubles
     * ...
 
 
