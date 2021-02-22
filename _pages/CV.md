@@ -32,13 +32,8 @@ Academic education
     *Thesis title: FFI and WFI upgrade for SOFIA - preparation for environmental testing of the optics and on-sky tests*
     *Grade: 1.5*
 
-2013-2014
-:   **BSc, Electrical Engineering**; University of New Orleans, LA
-
-    *GPA: 3.8*
-
-2012-2013
-:   **BSc, Electrical Engineering**; University of Kentucky, Lexington, KY
+2012-2014
+:   **BSc, Electrical Engineering**; University of New Orleans & University of Kentucky
 
     *GPA: 3.9*
 
@@ -62,31 +57,43 @@ Skitouring guide (C-Trainer)
 Work experiences
 --------------------
 
-Research assistant at DLR Oberpfaffenhofen
+Research assistant at DLR Oberpfaffenhofen (2019)
 :   LIDAR data analysis and visualization with Python and homepage development 
 
-Internship and working student at Thales Alena Space Germany
+Internship and working student at Thales Alenia Space (2017)
 :   Development of a complex simulator for satellite based air traffic surveillance including global air traffic, satellite constellations (interface to STK), communication links and a visualization framework
 
+Tutor of programming lab for electrical engineering students (2015)
+:   Supporting students with the development of a computer game with JAVA
 
 
-Technical Experience
+Skills
+--------------------
+Programming languages & tools
+
+
+Honors & Achievements
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+2017-2018
+:   * scholarship Baden-Württemberg foundation
+    * scholarship Herman-Reissner foundation
+    * scholarship by Walter-Blohm foundation
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+2016-2017
+:   **Deutschlandstipendium (scholarship)**; University of Stuttgart
+    
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+2012-2014
+:   * **Student-athlete** at the University of Kentucky and the University of New Orleans (both Division I)
+    * **Academic Honor Roll** of SEC; University of Kentucky
+
+2005-2012
+:   * **DTB C-Squad** (National youth team)
+    * 3. place German championship singles and doubles (2008)
+    * ...
+
+
 
 Programming Languages
 :   **first-lang:** Here, we have an itemization, where we only want
@@ -97,31 +104,7 @@ Programming Languages
     emphasized terms. Notice the reasonably nice page break in the pdf
     version, which wouldn't happen if we generated the pdf via html.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-* Enrolled in the master's degree Atmospheric Sciences at the University of Innsbruck
-
-* Research assistant at the institute for physiscs of the atmosphere at the DLR, Oberpfaffenhofen
