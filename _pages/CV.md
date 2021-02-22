@@ -74,6 +74,12 @@ Skills
 --------------------
 Programming languages & tools
 
+<p float="left">
+  <img src="../images/icons/python.png" class="icon" alt="Python" width="20%" />
+  <img src="../images/icons/matlab.png" class="icon" alt="Python"width="20%" /> 
+</p>
+
+<!-->
 <ul class="list-inline dev-icons"  style="padding-bottom: 20pt">
     <li class="list-inline-item">
     <a href="https://www.python.org"  >
@@ -84,6 +90,7 @@ Programming languages & tools
     </a>
     </li>
 </ul>
+<-->
 
 Honors & Achievements
 --------------------
