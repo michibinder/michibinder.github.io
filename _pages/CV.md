@@ -19,13 +19,23 @@ Affiliation
 :   **Research assistant**; Institute for physiscs of the atmosphere (IPA), DLR Oberpfaffenhofen
     *Master thesis: Numerical simulations of deeply propagating mountain waves above the Andes*
 
-Education
+Academic education
 ---------
 
 2019-2021 (expected)
-:   **MA, Atmospheric Sciences**; University of Innsbruck
+:   **MSc, Atmospheric Sciences**; University of Innsbruck
     *Thesis title: Numerical simulations of deeply propagating mountain waves above the Andes*
 
+
+2014-2018
+:   **BSc, Aerospace Engineering**; University of Stuttgart, BW
+    *Thesis title: FFI and WFI upgrade for SOFIA - preparation for environmental testing of the optics and on-sky tests*
+    *Grade: 1.5*
+
+2013-2014
+:   **BSc, Electrical Engineering**; University of New Orleans, LA
+
+    *GPA: 3.8*
 
 2012-2013
 :   **BSc, Electrical Engineering**; University of Kentucky, Lexington, KY
@@ -39,23 +49,26 @@ Education
 
 
 
-Experience
+Further education
 ----------
 
-**Your Most Recent Work Experience:**
+Tennis coach (C-Trainer)
+:   Certified by the WTB/DTB (German tennis association)
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Skitouring guide (C-Trainer)
+:   Certified by the DSV/DOSB
 
-* First item
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+Work experiences
+--------------------
 
-**That Other Job You Had**
+Research assistant at DLR Oberpfaffenhofen
+:   LIDAR data analysis and visualization with Python and homepage development 
 
-Also with a short description.
+Internship and working student at Thales Alena Space Germany
+:   Development of a complex simulator for satellite based air traffic surveillance including global air traffic, satellite constellations (interface to STK), communication links and a visualization framework
+
+
 
 Technical Experience
 --------------------
