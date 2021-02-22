@@ -355,3 +355,12 @@ input[type="submit"],
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+.dev-icons {
+  font-size: 3rem;
+  .list-inline-item i {
+    &:hover {
+      color: $primary;
+    }
+  }
+}
