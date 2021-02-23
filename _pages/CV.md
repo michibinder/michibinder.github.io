@@ -33,12 +33,12 @@ Academic education
 :   **BSc, Aerospace Engineering**; University of Stuttgart
     
     *Thesis title: FFI and WFI upgrade for SOFIA - preparation for environmental testing of the optics and on-sky tests*
-    Grade: 1.5
+    --Grade: 1.5--
 
 2012-2014
 :   **BSc, Electrical Engineering**; University of New Orleans & University of Kentucky
 
-    GPA: 3.9
+    --GPA: 3.9--
 
 2000-2012
 :   **General education (Abitur)**; Geschwister-Scholl-Schule Tübingen
@@ -72,31 +72,31 @@ Tutor for JAVA programming lab of EE department (2015)
 Skills
 --------------------
 Programming languages & tools
-
 <p class="list-inline dev-icons atab">
     <a href="https://www.python.org"  >
-        <img src="../images/icons/python.png" alt="Python" style="width: 12%; margin:2%;" />
+        <img src="../images/icons/python.png" alt="Python" style="width: 10%; margin:1%;" />
     </a>
     <a href="https://pytorch.org"  >
-        <img src="../images/icons/pytorch.png" alt="Pytorch" style="width: 12%; margin:2%;" /> 
+        <img src="../images/icons/pytorch.png" alt="Pytorch" style="width: 10%; margin:1%;" /> 
     </a>
     <a href="https://www.mathworks.com/products/matlab.html"  >
-        <img src="../images/icons/matlab.png" alt="Matlab" style="width: 12%; margin:2%;" /> 
+        <img src="../images/icons/matlab.png" alt="Matlab" style="width: 10%; margin:1%;" /> 
     </a>
     <a href="https://isocpp.org"  >
-        <img src="../images/icons/cplusplus.png" alt="Cplusplus" style="width: 12%; margin:2%;" /> 
+        <img src="../images/icons/cplusplus.png" alt="Cplusplus" style="width: 10%; margin:1%;" /> 
     </a>
     <a href="https://www.w3.org/TR/html53/"  >
-        <img src="../images/icons/html5.png" alt="HTML5" style="width: 12%; margin:2%;" /> 
+        <img src="../images/icons/html5.png" alt="HTML5" style="width: 10%; margin:1%;" /> 
     </a>
     <a href="https://www.solidworks.com"  >
-        <img src="../images/icons/solidworks.png" alt="Matlab" style="width: 12%; margin:2%;" /> 
+        <img src="../images/icons/solidworks.png" alt="solidworks" style="width: 10%; margin:1%;" /> 
     </a>
     <a href="https://www.3ds.com/de/produkte-und-services/catia/"  >
-        <img src="../images/icons/catia.png" alt="catia" style="width: 12%; margin:2%;" /> 
+        <img src="../images/icons/catia.png" alt="catia" style="width: 10%; margin:1%;" /> 
     </a>
 </p>
 
+Languages
 <ul class="fa-ul mb-0 languages-ul">
     <li class="languages-li">
     <i class="fa fa-star"></i>
