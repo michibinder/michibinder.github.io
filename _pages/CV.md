@@ -29,11 +29,10 @@ Academic education
     *Thesis title: Numerical simulations of deeply propagating mountain waves above the Andes*
 
 
-2014-2018 **BSc, Aerospace Engineering**
-:   University of Stuttgart, BW
+2014-2018
+:   **BSc, Aerospace Engineering**; University of Stuttgart
     
     *Thesis title: FFI and WFI upgrade for SOFIA - preparation for environmental testing of the optics and on-sky tests*
-    
     Grade: 1.5
 
 2012-2014
@@ -42,7 +41,7 @@ Academic education
     GPA: 3.9
 
 2000-2012
-:   **General education (Abitur)**; Geschwister-Scholl-Schule, Tübingen
+:   **General education (Abitur)**; Geschwister-Scholl-Schule Tübingen
 
     Grade: 1.5
 
@@ -66,8 +65,8 @@ Research assistant at DLR Oberpfaffenhofen (2019)
 Internship and working student at Thales Alenia Space (2017)
 :   Development of a complex simulator for satellite based air traffic surveillance including global air traffic, satellite constellations (interface to STK), communication links and a visualization framework
 
-Tutor of programming lab for electrical engineering students (2015)
-:   Supporting students with the development of a computer game with JAVA
+Tutor for JAVA programming lab of EE department (2015)
+:   Supporting students in the development of a computer game with JAVA
 
 
 Skills
@@ -78,10 +77,44 @@ Programming languages & tools
     <a href="https://www.python.org"  >
         <img src="../images/icons/python.png" alt="Python" style="width: 12%; margin:2%;" />
     </a>
+    <a href="https://pytorch.org"  >
+        <img src="../images/icons/pytorch.png" alt="Pytorch" style="width: 12%; margin:2%;" /> 
+    </a>
     <a href="https://www.mathworks.com/products/matlab.html"  >
         <img src="../images/icons/matlab.png" alt="Matlab" style="width: 12%; margin:2%;" /> 
     </a>
+    <a href="https://isocpp.org"  >
+        <img src="../images/icons/cplusplus.png" alt="Cplusplus" style="width: 12%; margin:2%;" /> 
+    </a>
+    <a href="https://www.w3.org/TR/html53/"  >
+        <img src="../images/icons/html5.png" alt="HTML5" style="width: 12%; margin:2%;" /> 
+    </a>
+    <a href="https://www.solidworks.com"  >
+        <img src="../images/icons/solidworks.png" alt="Matlab" style="width: 12%; margin:2%;" /> 
+    </a>
+    <a href="https://www.3ds.com/de/produkte-und-services/catia/"  >
+        <img src="../images/icons/catia.png" alt="catia" style="width: 12%; margin:2%;" /> 
+    </a>
 </p>
+
+<ul class="fa-ul mb-0 languages-ul">
+    <li class="languages-li">
+    <i class="fa fa-star"></i>
+    <i class="fa fa-star"></i>
+    <i class="fa fa-star icon-inline"></i>
+    Deutsch</li>
+    <li class="languages-li">
+    <i class="fa fa-star"></i>
+    <i class="fa fa-star"></i>
+    <i class="fa fa-star-half-alt icon-inline"></i>
+    English</li>
+    <li class="languages-li">
+    <i class="fa fa-star"></i>
+    <i class="fa fa-star"></i>
+    <i class="far fa-star icon-inline"></i>
+    Español</li>
+    <li>
+</ul>
 
 <!--
     <ul class="list-inline dev-icons"  style="padding-bottom: 20pt">
