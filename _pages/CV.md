@@ -33,6 +33,7 @@ Academic education
 :   **BSc, Aerospace Engineering**; University of Stuttgart
     
     *Thesis title: FFI and WFI upgrade for SOFIA - preparation for environmental testing of the optics and on-sky tests*
+    
     --Grade: 1.5--
 
 2012-2014
@@ -43,7 +44,7 @@ Academic education
 2000-2012
 :   **General education (Abitur)**; Geschwister-Scholl-Schule Tübingen
 
-    Grade: 1.5
+    --Grade: 1.5--
 
 
 Further education
@@ -96,6 +97,8 @@ Programming languages & tools
     </a>
 </p>
 
+<!--
+
 Languages
 <p class="list-inline">
     <li class="languages-li">
@@ -116,7 +119,6 @@ Languages
     <li>
 </p>
 
-<!--
     <ul class="list-inline dev-icons"  style="padding-bottom: 20pt">
         <li class="list-inline-item">
         <a href="https://www.python.org"  >
