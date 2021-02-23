@@ -89,7 +89,7 @@ Programming languages & tools
         <img src="../images/icons/html5.png" alt="HTML5" style="width: 10%; margin:1%;" /> 
     </a>
     <a href="https://www.solidworks.com"  >
-        <img src="../images/icons/solidworks.png" alt="solidworks" style="width: 10%; margin:1%;" /> 
+        <img src="../images/icons/Solidworks.png" alt="solidworks" style="width: 10%; margin:1%;" /> 
     </a>
     <a href="https://www.3ds.com/de/produkte-und-services/catia/"  >
         <img src="../images/icons/catia.png" alt="catia" style="width: 10%; margin:1%;" /> 
@@ -97,7 +97,7 @@ Programming languages & tools
 </p>
 
 Languages
-<ul class="fa-ul mb-0 languages-ul">
+<p class="list-inline">
     <li class="languages-li">
     <i class="fa fa-star"></i>
     <i class="fa fa-star"></i>
@@ -114,7 +114,7 @@ Languages
     <i class="far fa-star icon-inline"></i>
     Español</li>
     <li>
-</ul>
+</p>
 
 <!--
     <ul class="list-inline dev-icons"  style="padding-bottom: 20pt">
