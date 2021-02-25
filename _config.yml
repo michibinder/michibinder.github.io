@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Michael Binder"
   avatar           : "/images/bio-photo.jpg"
-  bio              : "Atmospheric Sciences,
-                      Photography,
-                      Ski-Slack-Surf"
+  bio              : "Studying Atmospheric Sciences, \n
+                      Passionate about Photography, \n
+                      Addicted to Ski, Slack and Surf"
   location         : "Innsbruck, Austria"
   email            : # "michael.binder94(at)gmail.com"
   links:
@@ -115,7 +115,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/michibinder"
     - # label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"

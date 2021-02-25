@@ -90,7 +90,7 @@ Programming languages & tools
         <img src="../images/icons/html5.png" alt="HTML5" style="width: 11%; margin:1%;" /> 
     </a>
     <a href="https://www.solidworks.com"  >
-        <img src="../images/icons/solidworks.png" alt="solidworks" style="width: 11%; margin:1%;" /> 
+        <img src="../images/icons/Solidworks.png" alt="solidworks" style="width: 11%; margin:1%;" /> 
     </a>
     <a href="https://www.3ds.com/de/produkte-und-services/catia/"  >
         <img src="../images/icons/catia.png" alt="catia" style="width: 11%; margin:1%;" /> 
@@ -101,15 +101,15 @@ Languages
 
 :   Deutsch &ensp;  <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
-                    <i class="fa fa-star icon-inline"></i> Native language
+                    <i class="fa fa-star icon-inline"></i>  (Native language)
 
-:   English &ensp;  <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star-half-alt icon-inline"></i> Fluent
+:   English &ensp;&nbsp;    <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star-half-alt icon-inline"></i>  (Fluent)
 
-:   Español     <i class="fa fa-star"></i>
-                <i class="far fa-star"></i>
-                <i class="far fa-star icon-inline"></i> 3 school years
+:   Español &ensp;&nbsp;    <i class="fa fa-star"></i>
+                            <i class="far fa-star"></i>
+                            <i class="far fa-star icon-inline"></i>  (3 school years)
 
 <!--
 
