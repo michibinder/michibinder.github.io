@@ -90,7 +90,7 @@ Programming languages & tools
         <img src="../images/icons/html5.png" alt="HTML5" style="width: 11%; margin:1%;" /> 
     </a>
     <a href="https://www.solidworks.com"  >
-        <img src="../images/icons/solidworks.jpg" alt="solidworks" style="width: 11%; margin:1%;" /> 
+        <img src="../images/icons/solidworks.png" alt="solidworks" style="width: 11%; margin:1%;" /> 
     </a>
     <a href="https://www.3ds.com/de/produkte-und-services/catia/"  >
         <img src="../images/icons/catia.png" alt="catia" style="width: 11%; margin:1%;" /> 
@@ -99,19 +99,17 @@ Programming languages & tools
 
 Languages
 
-:   Deutsch <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star icon-inline"></i> 
+:   Deutsch &ensp;  <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star icon-inline"></i> Native language
 
-:   English <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star-half-alt icon-inline"></i> 
+:   English &ensp;  <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-alt icon-inline"></i> Fluent
 
-:   Español <i class="fa fa-star"></i>
-            <i class="far fa-star"></i>
-            <i class="far fa-star icon-inline"></i>
-
-    Latin
+:   Español     <i class="fa fa-star"></i>
+                <i class="far fa-star"></i>
+                <i class="far fa-star icon-inline"></i> 3 school years
 
 <!--
 
@@ -156,7 +154,7 @@ Honors & Achievements
     * scholarship of the **Walter-Blohm foundation**
 
 2016-2017
-:   **Deutschlandstipendium (scholarship)**; University of Stuttgart
+:   **Deutschlandstipendium** (scholarship); University of Stuttgart
     
 
 2012-2014
@@ -165,11 +163,19 @@ Honors & Achievements
 
 2005-2012
 :   * **DTB C-Squad** (National tennis youth team)
-    * Third place German championship singles and doubles
+    * Third place **German championship** singles and doubles
     * ...
 
 
+Further interests
+--------------------
 
+*   Any type of atheltic activity
+    + Passionate skier, surfer and slackliner
+*   Astro, landscape and sport photography
+*   Reading, traveling & playing guitar
+
+<!--
 Programming Languages
 :   **first-lang:** Here, we have an itemization, where we only want
     to add descriptions to the first few items, but still want to
@@ -183,3 +189,4 @@ Programming Languages
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
+-->
