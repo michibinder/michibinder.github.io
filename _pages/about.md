@@ -13,7 +13,7 @@ On a more serious notice I am currently finishing my master degree in Atmospheri
 
 I did my Bachelor degree in Aerospace Engineering and even wrote my thesis at **NASA**, but I am kind of more happy when talking about climate, glaciers and waves, instead of rockets or airplanes. Everything else is the same anyway.
 
-Programming is a little bit important in today's science, so I'll just say **I love it**. I guess I ll find out how I much I really like **simulations** during my master thesis now, but what's also really interesting is this **artifical intelligence** (AI) thing everybody talks about. I managed to drive the car up the mountain (check out my Github), but there's so much more to learn about. Would be cool to combine some natural science research with evolved machine learning techniques. 
+Programming is a little bit important in today's science, so I'll just say **I love it**. I guess I ll find out how I much I really like **simulations** during my master thesis now, but what's also really interesting is this **artifical intelligence** (AI) thing everybody talks about. I managed to drive the car up the mountain (check out my Github), but there's so much more to learn about. Would be cool to combine some natural science research with evolved machine learning techniques some day.
 
 Looking forward to new challenges.
 
@@ -32,4 +32,4 @@ But for now ... I'm basically just a kid in his mid-twenties, with a camera, a v
 
 To be honest, I'm just doing what I love. Well, there are actually not many things that make me happy the way photography does. Even after living my dream for a few years now, travelling to so many stunning places ... getting that one shot still sends me shiver. And maybe ... maybe people can see that in my pictures. Or ... that's at least what I hope.
 
-->
+-->

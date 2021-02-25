@@ -103,9 +103,9 @@ Languages
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star icon-inline"></i>  (Native language)
 
-:   English &ensp;&nbsp;    <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star-half-alt icon-inline"></i>  (Fluent)
+:   English &ensp;&nbsp;&nbsp;  <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star-half-alt icon-inline"></i>  (Fluent)
 
 :   Español &ensp;&nbsp;    <i class="fa fa-star"></i>
                             <i class="far fa-star"></i>
