@@ -16,7 +16,7 @@ Michael Binder
 Affiliation
 ---------
 2019-present
-:   **Research assistant** at the institute for physiscs of the atmosphere (IPA), DLR Oberpfaffenhofen
+:   **Research assistant** at the institute for physics of the atmosphere (IPA), DLR Oberpfaffenhofen
     
     *Master thesis: Numerical simulations of deeply propagating mountain waves above the Andes*
 
@@ -75,31 +75,43 @@ Skills
 Programming languages & tools
 <p class="list-inline dev-icons atab">
     <a href="https://www.python.org"  >
-        <img src="../images/icons/python.png" alt="Python" style="width: 10%; margin:1%;" />
+        <img src="../images/icons/python.png" alt="Python" style="width: 11%; margin:1.5%;" />
     </a>
     <a href="https://pytorch.org"  >
-        <img src="../images/icons/pytorch.png" alt="Pytorch" style="width: 10%; margin:1%;" /> 
+        <img src="../images/icons/pytorch.png" alt="Pytorch" style="width: 11%; margin:1.5%;" /> 
     </a>
     <a href="https://www.mathworks.com/products/matlab.html"  >
-        <img src="../images/icons/matlab.png" alt="Matlab" style="width: 10%; margin:1%;" /> 
+        <img src="../images/icons/matlab.png" alt="Matlab" style="width: 11%; margin:1.5%;" /> 
     </a>
     <a href="https://isocpp.org"  >
-        <img src="../images/icons/cplusplus.png" alt="Cplusplus" style="width: 10%; margin:1%;" /> 
+        <img src="../images/icons/cplusplus.png" alt="Cplusplus" style="width: 11%; margin:1.5%;" /> 
     </a>
     <a href="https://www.w3.org/TR/html53/"  >
-        <img src="../images/icons/html5.png" alt="HTML5" style="width: 10%; margin:1%;" /> 
+        <img src="../images/icons/html5.png" alt="HTML5" style="width: 11%; margin:1.5%;" /> 
     </a>
     <a href="https://www.solidworks.com"  >
-        <img src="../images/icons/Solidworks.png" alt="solidworks" style="width: 10%; margin:1%;" /> 
+        <img src="../images/icons/Solidworks.png" alt="solidworks" style="width: 11%; margin:1.5%;" /> 
     </a>
     <a href="https://www.3ds.com/de/produkte-und-services/catia/"  >
-        <img src="../images/icons/catia.png" alt="catia" style="width: 10%; margin:1%;" /> 
+        <img src="../images/icons/catia.png" alt="catia" style="width: 11%; margin:1.5%;" /> 
     </a>
 </p>
 
-<!--
-
 Languages
+
+:   Deutsch <li class="languages-li">
+    <i class="fa fa-star"></i>
+    <i class="fa fa-star"></i>
+    <i class="fa fa-star-half-alt icon-inline"></i>
+    </li>
+
+    English
+
+    Español
+
+    Latin
+
+
 <p class="list-inline">
     <li class="languages-li">
     <i class="fa fa-star"></i>
@@ -119,6 +131,8 @@ Languages
     <li>
 </p>
 
+<!--
+
     <ul class="list-inline dev-icons"  style="padding-bottom: 20pt">
         <li class="list-inline-item">
         <a href="https://www.python.org"  >
@@ -135,7 +149,7 @@ Honors & Achievements
 --------------------
 
 2017-2018
-:   BSc thesis within **SOFIA** at **NASA ARC**
+:   BSc thesis within **SOFIA** at **NASA Ames Research Center**
     * scholarship of the **Baden-Württemberg foundation**
     * scholarship of the **Herman-Reissner foundation**
     * scholarship of the **Walter-Blohm foundation**
