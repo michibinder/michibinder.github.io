@@ -26,17 +26,17 @@ Academic education
 2019-2021 (expected)
 :   **MSc, Atmospheric Sciences**; University of Innsbruck
     
-    *Thesis title: Numerical simulations of deeply propagating mountain waves above the Andes*
+    *Thesis title: Numerical simulations of deeply propagating mountain waves above the Andes* &nbsp;
     <i class="fa fa-stamp"></i> Grade: 1.4
 
 2014-2018
 :   **BSc, Aerospace Engineering**; University of Stuttgart
     
-    *Thesis title: FFI and WFI upgrade for SOFIA - preparation for environmental testing of the optics and on-sky tests*
+    *Thesis title: FFI and WFI upgrade for SOFIA - preparation for environmental testing of the optics and on-sky tests*  
     <i class="fa fa-stamp"></i> Grade: 1.5
 
 2012-2014
-:   **BSc, Electrical Engineering**; University of New Orleans & University of Kentucky
+:   **BSc, Electrical Engineering** (not finished); University of New Orleans & University of Kentucky
     
     <i class="fa fa-stamp"></i> GPA: 3.9
 
@@ -65,7 +65,7 @@ Research assistant at DLR Oberpfaffenhofen (2019)
 Internship and working student at Thales Alenia Space (2017)
 :   Development of a complex simulator for satellite based air traffic surveillance including global air traffic, satellite constellations (interface to STK), communication links and a visualization framework
 
-Tutor for JAVA programming lab of EE department (2015)
+Tutor of programming lab of EE major (2015)
 :   Supporting students in the development of a computer game with JAVA
 
 
