@@ -69,7 +69,7 @@ Tutor of programming lab of EE major (2015)
 :   Supporting students in the development of a computer game with JAVA
 
 Tennis coach (2011-2018)
-
+:   for the TC Weil im Schönbuch
 
 Skills
 --------------------
