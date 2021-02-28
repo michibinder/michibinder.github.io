@@ -34,17 +34,17 @@ Academic education
     
     *Thesis title: FFI and WFI upgrade for SOFIA - preparation for environmental testing of the optics and on-sky tests*
     
-    --Grade: 1.5--
+    <i class="fa fa-stamp"></i> Grade: 1.5
 
 2012-2014
 :   **BSc, Electrical Engineering**; University of New Orleans & University of Kentucky
     
-    <i class="fa fa-star"></i> GPA: 3.9
+    <i class="fa fa-stamp"></i> GPA: 3.9
 
 2000-2012
 :   **General education (Abitur)**; Geschwister-Scholl-Schule Tübingen
 
-    --Grade: 1.5--
+    <i class="fa fa-certificate"></i> Grade: 1.5
 
 
 Further education
