@@ -27,13 +27,12 @@ Academic education
 :   **MSc, Atmospheric Sciences**; University of Innsbruck
     
     *Thesis title: Numerical simulations of deeply propagating mountain waves above the Andes*
-
+    <i class="fa fa-stamp"></i> Grade: 1.4
 
 2014-2018
 :   **BSc, Aerospace Engineering**; University of Stuttgart
     
     *Thesis title: FFI and WFI upgrade for SOFIA - preparation for environmental testing of the optics and on-sky tests*
-    
     <i class="fa fa-stamp"></i> Grade: 1.5
 
 2012-2014
@@ -44,7 +43,7 @@ Academic education
 2000-2012
 :   **General education (Abitur)**; Geschwister-Scholl-Schule Tübingen
 
-    <i class="fa fa-certificate"></i> Grade: 1.5
+    <i class="fa fa-stamp"></i> Grade: 1.5
 
 
 Further education
