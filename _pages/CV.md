@@ -24,26 +24,26 @@ Academic education
 ---------
 
 2019-2021 (expected)
-:   **MSc, Atmospheric Sciences**; University of Innsbruck
+:   **MSc, Atmospheric Sciences**, University of Innsbruck
     
-    *Thesis title: Numerical simulations of deeply propagating mountain waves above the Andes* &nbsp;
-    <i class="fa fa-stamp"></i> Grade: 1.4
+    *Thesis title: Numerical simulations of deeply propagating mountain waves above the Andes*  
+    <i class="fa fa-certificate"></i> Grade: 1.4
 
 2014-2018
-:   **BSc, Aerospace Engineering**; University of Stuttgart
+:   **BSc, Aerospace Engineering**, University of Stuttgart
     
-    *Thesis title: FFI and WFI upgrade for SOFIA - preparation for environmental testing of the optics and on-sky tests*  
-    <i class="fa fa-stamp"></i> Grade: 1.5
+    *Thesis title: FFI and WFI upgrade for SOFIA - preparation for environmental testing of the optics and on-sky tests* (conducted at NASA ARC, CA)  
+    <i class="fa fa-certificate"></i> Grade: 1.5
 
 2012-2014
-:   **BSc, Electrical Engineering** (not finished); University of New Orleans & University of Kentucky
+:   **BSc, Electrical Engineering** (not finished), University of New Orleans & University of Kentucky
     
-    <i class="fa fa-stamp"></i> GPA: 3.9
+    <i class="fa fa-certificate"></i> GPA: 3.9
 
 2000-2012
-:   **General education (Abitur)**; Geschwister-Scholl-Schule Tübingen
+:   **Abitur (General education)**; Geschwister-Scholl-Schule Tübingen
 
-    <i class="fa fa-stamp"></i> Grade: 1.5
+    <i class="fa fa-certificate"></i> Grade: 1.5
 
 
 Further education
@@ -67,6 +67,8 @@ Internship and working student at Thales Alenia Space (2017)
 
 Tutor of programming lab of EE major (2015)
 :   Supporting students in the development of a computer game with JAVA
+
+Tennis coach (2011-2018)
 
 
 Skills
