@@ -5,7 +5,7 @@ header:
     overlay_image: "/images/header_images/kalkkögel_morning.jpg"
 ---
 
-Not yet sure how to make this world a better place. Also not sure if it's worth the effort. Might as well just stick to my skies and surfboard and enjoy mother nature's gifts. 
+Not yet sure how to make this world a better place. Also not sure if it's worth the effort. Might as well just stick to my skis and surfboard and enjoy mother nature's gifts. 
 
 Hopefully, you like my photographs, but if you don't I think I can handle the disappointment.
 
