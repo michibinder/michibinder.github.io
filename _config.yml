@@ -116,7 +116,7 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github"
       url: "https://github.com/michibinder"
     - # label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
