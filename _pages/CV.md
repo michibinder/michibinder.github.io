@@ -38,8 +38,8 @@ Academic education
 
 2012-2014
 :   **BSc, Electrical Engineering**; University of New Orleans & University of Kentucky
-
-    --GPA: 3.9--
+    
+    <i class="fa fa-star"></i> GPA: 3.9
 
 2000-2012
 :   **General education (Abitur)**; Geschwister-Scholl-Schule Tübingen
