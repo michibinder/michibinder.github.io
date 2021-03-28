@@ -1,7 +1,9 @@
 ---
+layout: post
 title:  "South America On Skis"
 header: 
     overlay_image: "/images/header_images/kalkkögel_sunset.jpg"
+    teaser: "/images/south_america/image-3.jpg"
 categories: 
   - Adventure
 tags:
@@ -12,9 +14,9 @@ tags:
 
 
 
+
 <!--
 Comments
 
-<iframe width="420" height="315" src="https://youtu.be/pHKt4kh5Yzo" frameborder="0" allowfullscreen></iframe>
 PDF link [get the PDF](/assets/mydoc.pdf)
 -->

@@ -2,6 +2,7 @@
 title: "HIGHER GROUND | Mont Blanc Massif"
 header: 
     overlay_image: "/images/header_images/kalkkögel_sunset.jpg"
+    teaser: "/images/south_america/image-4.jpg"
 ---
 
 <iframe src="https://player.vimeo.com/video/351884479?color=ffffff" width="640" height="320" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>

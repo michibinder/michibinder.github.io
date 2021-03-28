@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header: 
-    overlay_image: "/images/header_images/kalkkögel_morning.jpg"
+    overlay_image: "/images/header_images/kalkkögel_sunset.jpg"
 ---
 
 Not yet sure how to make this world a better place. Also not sure if it's worth the effort. Might as well just stick to my skis and surfboard and enjoy mother nature's gifts. 
