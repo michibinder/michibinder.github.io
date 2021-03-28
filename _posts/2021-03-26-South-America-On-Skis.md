@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "South America On Skis"
+excerpt: ""
+tagline: ""
 header: 
     overlay_image: "/images/header_images/kalkkögel_sunset.jpg"
     teaser: "/images/south_america/image-3.jpg"

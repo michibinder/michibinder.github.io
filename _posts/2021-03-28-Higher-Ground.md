@@ -1,12 +1,14 @@
 ---
-title: "HIGHER GROUND | Mont Blanc Massif"
+title: "HIGHER GROUND - Mont Blanc Massif"
+excerpt: ""
+tagline: "Biwak at Viggarspitze"
 header: 
     overlay_image: "/images/header_images/kalkkögel_sunset.jpg"
     teaser: "/images/south_america/image-4.jpg"
 ---
 
 <iframe src="https://player.vimeo.com/video/351884479?color=ffffff" width="640" height="320" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/351884479">HIGHER GROUND | Mont Blanc Massif</a> from <a href="https://vimeo.com/flonick">Flo Nick</a>.</p>
+<p><a href="https://vimeo.com/351884479">HIGHER GROUND - Mont Blanc Massif</a> from <a href="https://vimeo.com/flonick">Flo Nick</a>.</p>
 
 We also did a behind the scenes cut to demonstrate the setup of the timelapse recordings:
 
