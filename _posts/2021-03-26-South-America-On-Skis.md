@@ -1,9 +1,11 @@
 ---
-title: "Higher Ground"
-
+layout: single
+title:  "South America On Skis"
+header: 
+    overlay_image: "/images/header_images/kalkkögel_morning.jpg"
 ---
 
-**Higher Ground** is this movie
+**Higher Ground** is this movie of Florian Nick
 
 <iframe src="https://player.vimeo.com/video/351884479?color=ffffff" width="640" height="320" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/351884479">HIGHER GROUND | Mont Blanc Massif</a> from <a href="https://vimeo.com/flonick">Flo Nick</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
