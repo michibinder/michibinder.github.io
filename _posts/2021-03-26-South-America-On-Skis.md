@@ -2,7 +2,7 @@
 layout: single
 title:  "South America On Skis"
 header: 
-    overlay_image: "/images/header_images/kalkkögel_morning.jpg"
+    overlay_image: "/images/header_images/kalkkögel_sunset.jpg"
 ---
 
 **Higher Ground** is this movie of Florian Nick

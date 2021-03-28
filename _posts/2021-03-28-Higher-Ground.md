@@ -1,4 +1,5 @@
 ---
+layout: splash
 title: "Higher Ground"
 
 ---
