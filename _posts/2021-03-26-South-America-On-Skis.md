@@ -1,8 +1,8 @@
 ---
-layout: post
 title:  "South America On Skis"
-excerpt: ""
-tagline: ""
+excerpt: False
+tagline: "ss"
+read_time: False
 header: 
     overlay_image: "/images/header_images/kalkkögel_sunset.jpg"
     teaser: "/images/south_america/image-3.jpg"
@@ -11,6 +11,8 @@ categories:
 tags:
   - nature, ski, movie
 ---
+
+Skitouring in Chile and Argentina in September 2018.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1PvHqbRurj8" title="South America On Skis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
