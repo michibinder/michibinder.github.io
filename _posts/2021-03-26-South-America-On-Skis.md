@@ -1,7 +1,7 @@
 ---
 title:  "South America On Skis"
 excerpt: False
-tagline: False
+tagline: ""
 read_time: False
 header: 
     overlay_image: "/images/header_images/kalkkögel_sunset.jpg"
