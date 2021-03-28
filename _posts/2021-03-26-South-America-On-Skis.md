@@ -1,8 +1,12 @@
 ---
-layout: post
+layout: default
 title:  "South America On Skis"
 header: 
     overlay_image: "/images/header_images/kalkkögel_sunset.jpg"
+categories: 
+  - Adventure
+tags:
+  - nature, ski, movie
 ---
 
 **Higher Ground** is this movie of Florian Nick
