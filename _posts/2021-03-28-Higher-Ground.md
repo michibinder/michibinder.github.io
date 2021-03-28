@@ -1,7 +1,7 @@
 ---
-layout: splash
 title: "Higher Ground"
-
+header: 
+    overlay_image: "/images/header_images/kalkkögel_sunset.jpg"
 ---
 
 **Higher Ground** is this movie

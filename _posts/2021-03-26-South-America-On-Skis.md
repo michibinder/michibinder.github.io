@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "South America On Skis"
 header: 
     overlay_image: "/images/header_images/kalkkögel_sunset.jpg"
