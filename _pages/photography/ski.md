@@ -22,6 +22,8 @@ gallery:
     image_path: /images/ski/image-5.jpg
   - url: /images/ski/image-6.jpg
     image_path: /images/ski/image-6.jpg
+  - url: /images/ski/image-7.jpg
+    image_path: /images/ski/image-7.jpg
 
 ---
 
