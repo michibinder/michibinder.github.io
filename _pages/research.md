@@ -6,4 +6,4 @@ header:
     overlay_image: "/images/header_images/kalkkögel_misty.jpg"
 ---
 
-tbd
+{% include my_proposal.html %}
