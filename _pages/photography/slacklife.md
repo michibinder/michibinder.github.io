@@ -1,5 +1,5 @@
 ---
-permalink: /photography/slackline/
+permalink: /photography/slacklife/
 author_profile: false
 title: "Slackline"
 layout: splash
