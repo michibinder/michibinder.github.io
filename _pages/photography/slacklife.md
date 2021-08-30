@@ -1,7 +1,7 @@
 ---
 permalink: /photography/slacklife/
 author_profile: false
-title: "Slackline"
+title: "Slacklife"
 layout: splash
 excerpt: ""
 # tagline: "The **Kalkögel** framed from the **Salfeiner See**."
