@@ -30,9 +30,9 @@ feature_row2:
   - image_path: /images/ski/image-5.jpg
     image_title: "Ski"
     url: "photography/ski/"
-  - image_path: /images/slackline/image-5.jpg
-    image_title: "Slackline"
-    url: "photography/slackline/"
+  - image_path: /images/slacklife/image-5.jpg
+    image_title: "Slacklife"
+    url: "photography/slacklife/"
   - image_path: /images/innsbruck/image-5.jpg
     image_title: "Innsbruck"
     url: "photography/innsbruck/"
