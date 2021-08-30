@@ -11,6 +11,8 @@ Hopefully, you like my photographs, but if you don't I think I can handle the di
 
 On a more serious notice I am currently finishing my M.Sc. in **Atmospheric Sciences** by writing my master thesis at the German aerospace center (DLR) Oberpfaffenhofen. Thanks to Covid I can still live in **Innsbruck** while working on the thesis and spend my free time running, skiing or slacklining in the mountains. Check out my proposal if interested...
 
+{% include my_proposal.html %}
+
 I did my Bachelor degree in **Aerospace Engineering**, but I kind of find it more enjoying to talk about our climate, glaciers and atmosphere, instead of airplanes and rockets. Everything else is the same anyway.
 
 Super happy with the topic of my thesis so far, but this **artifical intelligence** (AI) thing, everybody is talking about, does not seem too boring either. Would be cool to combine some natural science research with evolved machine learning techniques some day.
