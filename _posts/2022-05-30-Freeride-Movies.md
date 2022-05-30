@@ -9,20 +9,20 @@ header:
 ---
 
 1. Hot Dog... The Movie! \
-<p><a href="https://vimeo.com/20804776"><img src="/images/freeride-movies/hot-dog.jpg" height="50" alt="Hot Dog"></a></p>
+<p><a href="https://vimeo.com/20804776"><img src="/images/freeride-movies/hot-dog.jpg" height="50px" alt="Hot Dog"></a></p>
 
 2. The Blizzard of AAHHH's - A True Story \
-<a href="https://www.youtube.com/watch?v=aTsAsYmPgDk"><img src="/images/freeride-movies/blizzard.jpg" alt="Blizzard of AAHHHs" height="20%"></a>
-https://www.amazon.com/Blizzard-Aahhhs-Greg-Stump/dp/B00JU5LVPY
+<p><a href="https://www.youtube.com/watch?v=aTsAsYmPgDk"><img src="/images/freeride-movies/blizzard.jpg" alt="Blizzard of AAHHHs" height="50px"></a></p>
+<a href="https://www.amazon.com/Blizzard-Aahhhs-Greg-Stump/dp/B00JU5LVPY"> ** Amazon Link **</a>
 
 3. License to Thrill (with Glen Blake) \
-<a href="https://www.kayakhelp.com/best-80s-90s-ski-movies/"><img src="/images/freeride-movies/license-to-thrill.jpg" alt="License to Thrill" height="150"></a>
+<p><a href="https://www.kayakhelp.com/best-80s-90s-ski-movies/"><img src="/images/freeride-movies/license-to-thrill.jpg" alt="License to Thrill" height="50px"></a></p>
 
 4. SnoWhat (with Glen Plake...) \
-<a href="https://www.youtube.com/watch?v=09tpmEskqlI"><img src="/images/freeride-movies/snoWhat.jpg" alt="SnoWhat" width="50" height="50"></a>
+<p><a href="https://www.youtube.com/watch?v=09tpmEskqlI"><img src="/images/freeride-movies/snoWhat.jpg" alt="SnoWhat" height="50px"></a></p>
 
 5. The Eternal Beauty of Snowboarding \
-<a href="https://www.youtube.com/watch?v=FKeUVMMl0fc"><img src="/images/freeride-movies/eternal-beauty.jpg" alt="Eternal Beauty of Snowboarding" height="10px" width="10px"></a>
+<p><a href="https://www.youtube.com/watch?v=FKeUVMMl0fc"><img src="/images/freeride-movies/eternal-beauty.jpg" alt="Eternal Beauty of Snowboarding" height="50px" ></a></p>
 
 
 <a href="https://www.kayakhelp.com/best-80s-90s-ski-movies/"> ** Another list of great ski movies **</a>
