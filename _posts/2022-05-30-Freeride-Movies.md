@@ -9,17 +9,18 @@ header:
 ---
 
 1. Hot Dog
-<a href="https://vimeo.com/20804776"><img src="/images/hot-dog.jpg" alt=""></a>
+<a href="https://vimeo.com/20804776"><img src="/images/freeride-movies/hot-dog.jpg" alt="Hot Dog"></a>
 
 2. The Blizzard of AAHHH's
-https://www.youtube.com/watch?v=aTsAsYmPgDk
+<a href="https://www.youtube.com/watch?v=aTsAsYmPgDk"><img src="/images/freeride-movies/blizzard.jpg" alt="Blizzard of AAHHHs"></a>
 https://www.amazon.com/Blizzard-Aahhhs-Greg-Stump/dp/B00JU5LVPY
 
 3. License to Thrill (with Glen Blake)
-https://www.kayakhelp.com/best-80s-90s-ski-movies/
+<a href="https://www.kayakhelp.com/best-80s-90s-ski-movies/"><img src="/images/freeride-movies/license-to-thrill.jpg" alt="License to Thrill"></a>
+
 
 4. The Eternal Beauty of Snowboarding
-https://www.youtube.com/watch?v=FKeUVMMl0fc
+<a href="https://www.youtube.com/watch?v=FKeUVMMl0fc"><img src="/images/freeride-movies/eternal-beauty.jpg" alt="Eternal Beauty of Snowboarding"></a>
 
 <!--
 Comments
