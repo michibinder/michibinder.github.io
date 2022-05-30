@@ -94,10 +94,10 @@ analytics:
 # Site Author
 author:
   name             : "Michael Binder"
-  avatar           : "/images/bio-photo.jpg"
-  bio              : "<p> Studying Atmospheric Sciences <br> --- <br> 
-                      Passionate about photography <br>  --- <br> 
-                      Addicted to ski, slack and surf </p>"
+  avatar           : "/images/bio-photo-2.jpg"
+  bio              : "<p> Sometimes I research <br> --- <br> 
+                      Sometimes I take photos <br>  --- <br> 
+                      Sometimes I ski, slack, surf or fly </p>"
   location         : "Innsbruck, Austria"
   email            : # "michael.binder94(at)gmail.com"
   links:
