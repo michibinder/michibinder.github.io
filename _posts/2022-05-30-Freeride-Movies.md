@@ -9,10 +9,10 @@ header:
 ---
 
 1. Hot Dog... The Movie! \
-<a href="https://vimeo.com/20804776"><img src="/images/freeride-movies/hot-dog.jpg" alt="Hot Dog" height="5"></a>
+<p><a href="https://vimeo.com/20804776"><img src="/images/freeride-movies/hot-dog.jpg" height="50" alt="Hot Dog"></a></p>
 
 2. The Blizzard of AAHHH's - A True Story \
-<a href="https://www.youtube.com/watch?v=aTsAsYmPgDk"><img src="/images/freeride-movies/blizzard.jpg" alt="Blizzard of AAHHHs" height="1"></a>
+<a href="https://www.youtube.com/watch?v=aTsAsYmPgDk"><img src="/images/freeride-movies/blizzard.jpg" alt="Blizzard of AAHHHs" height="20%"></a>
 https://www.amazon.com/Blizzard-Aahhhs-Greg-Stump/dp/B00JU5LVPY
 
 3. License to Thrill (with Glen Blake) \
