@@ -19,10 +19,10 @@ https://www.amazon.com/Blizzard-Aahhhs-Greg-Stump/dp/B00JU5LVPY
 <a href="https://www.kayakhelp.com/best-80s-90s-ski-movies/"><img src="/images/freeride-movies/license-to-thrill.jpg" alt="License to Thrill" height="150"></a>
 
 4. SnoWhat (with Glen Plake...) \
-<a href="https://www.youtube.com/watch?v=09tpmEskqlI"><img src="/images/freeride-movies/snoWhat.jpg" alt="SnoWhat" height="10"></a>
+<a href="https://www.youtube.com/watch?v=09tpmEskqlI"><img src="/images/freeride-movies/snoWhat.jpg" alt="SnoWhat" width="50" height="50"></a>
 
 5. The Eternal Beauty of Snowboarding \
-<a href="https://www.youtube.com/watch?v=FKeUVMMl0fc"><img src="/images/freeride-movies/eternal-beauty.jpg" alt="Eternal Beauty of Snowboarding" height="10"></a>
+<a href="https://www.youtube.com/watch?v=FKeUVMMl0fc"><img src="/images/freeride-movies/eternal-beauty.jpg" alt="Eternal Beauty of Snowboarding" height="10px" width="10px"></a>
 
 
 <a href="https://www.kayakhelp.com/best-80s-90s-ski-movies/"> ** Another list of great ski movies **</a>
