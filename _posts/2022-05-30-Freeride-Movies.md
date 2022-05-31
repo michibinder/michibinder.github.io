@@ -8,21 +8,21 @@ header:
     teaser: "/images/south_america/image-4.jpg"
 ---
 
-1. Hot Dog... The Movie! \
-<p><a href="https://vimeo.com/20804776"><img src="/images/freeride-movies/hot-dog.jpg" width="50px" height="75px" alt="Hot Dog"></a></p>
+1. Hot Dog... The Movie!
+<p><a href="https://vimeo.com/20804776"><img src="/images/freeride-movies/hot-dog.jpg" width="130px" height="200px" alt="Hot Dog"></a></p>
 
-2. The Blizzard of AAHHH's - A True Story \
-<p><a href="https://www.youtube.com/watch?v=aTsAsYmPgDk"><img src="/images/freeride-movies/blizzard.jpg" alt="Blizzard of AAHHHs" width="50px" height="75px"></a></p>
+2. The Blizzard of AAHHH's - A True Story
+<p><a href="https://www.youtube.com/watch?v=aTsAsYmPgDk"><img src="/images/freeride-movies/blizzard.jpg" alt="Blizzard of AAHHHs" width="130px" height="200px"></a></p>
 <a href="https://www.amazon.com/Blizzard-Aahhhs-Greg-Stump/dp/B00JU5LVPY"> ** Amazon Link **</a>
 
-3. License to Thrill (with Glen Blake) \
-<p><a href="https://www.kayakhelp.com/best-80s-90s-ski-movies/"><img src="/images/freeride-movies/license-to-thrill.jpg" alt="License to Thrill" width="50px" height="75px"></a></p>
+3. License to Thrill (with Glen Blake)
+<p><a href="https://www.kayakhelp.com/best-80s-90s-ski-movies/"><img src="/images/freeride-movies/license-to-thrill.jpg" alt="License to Thrill" width="130px" height="200px"></a></p>
 
-4. SnoWhat (with Glen Plake...) \
-<p><a href="https://www.youtube.com/watch?v=09tpmEskqlI"><img src="/images/freeride-movies/snoWhat.jpg" alt="SnoWhat" width="50px" height="75px"></a></p>
+4. SnoWhat (with Glen Plake...)
+<p><a href="https://www.youtube.com/watch?v=09tpmEskqlI"><img src="/images/freeride-movies/snoWhat.jpg" alt="SnoWhat" width="130px" height="200px"></a></p>
 
-5. The Eternal Beauty of Snowboarding \
-<p><a href="https://www.youtube.com/watch?v=FKeUVMMl0fc"><img src="/images/freeride-movies/eternal-beauty.jpg" alt="Eternal Beauty of Snowboarding" width="50px" height="75px" ></a></p>
+5. The Eternal Beauty of Snowboarding
+<p><a href="https://www.youtube.com/watch?v=FKeUVMMl0fc"><img src="/images/freeride-movies/eternal-beauty.jpg" alt="Eternal Beauty of Snowboarding" width="130px" height="200px" ></a></p>
 
 
 <a href="https://www.kayakhelp.com/best-80s-90s-ski-movies/"> ** Another list of great ski movies **</a>
