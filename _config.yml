@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael Binder"
+title                    : "Michi Binder"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Michael Binder"
+name                     : "Michi Binder"
 description              : "Whatever portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michael Binder"
+  name             : "Michi Binder"
   avatar           : "/images/bio-photo.jpg"
-  bio              : "<p> Sometimes I research <br> --- <br> 
-                      Sometimes I take photos <br>  --- <br> 
-                      Sometimes I ski, slack, surf or fly </p>"
+  bio              : "<p> + Skiing + Slacklining + Surfing <br> 
+                      + Upper atmosphere dynamics <br> 
+                      + Snow and avalanche dynamics </p>"
   location         : "Innsbruck, Austria"
   email            : # "michael.binder94(at)gmail.com"
   links:
@@ -116,6 +116,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/michibinder"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      url: "https://gitlab.com/tennismichel"
     - # label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"

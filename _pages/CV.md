@@ -15,6 +15,9 @@ Michael Binder
 
 Affiliation
 ---------
+2021-present
+:   **Internship** at the avalanche warning service Tyrol, Innsbruck
+
 2019-present
 :   **Research assistant** at the institute for physics of the atmosphere (IPA), DLR Oberpfaffenhofen
     

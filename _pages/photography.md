@@ -36,11 +36,24 @@ feature_row2:
   - image_path: /images/innsbruck/image-5.jpg
     image_title: "Innsbruck"
     url: "photography/innsbruck/"
+
+  feature_row3:
+  - image_path: /images/nordkette/image-2.jpg
+    image_title: "Nordkette"
+    url: "photography/nordkette/"
+  - image_path: /images/mountains/image-5.jpg
+    image_title: "Mountains"
+    url: "photography/mountains/"
+  - image_path: /images/glacier-work/image-2.jpg
+    image_title: "Glacier Work"
+    url: "photography/glacier-work/"
 ---
 
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" %}
+
+{% include feature_row id="feature_row3" %}
 
 <!-- 
 

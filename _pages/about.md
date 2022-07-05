@@ -5,24 +5,28 @@ header:
     overlay_image: "/images/header_images/kalkkögel_sunset.jpg"
 ---
 
-Not yet sure how to make this world a better place. Also not sure if it's worth the effort. Might as well just stick to my skis and surfboard and enjoy mother nature's gifts. 
+Hopefully, you like my photographs. If not, I can handle the disappointment.
 
-Hopefully, you like my photographs, but if you don't I think I can handle the disappointment.
+I am not yet sure how to make this world a better place. Actually, not even sure if it would be worth the effort. Should perhaps just load the van with skis and surfboards and enjoy Mother Nature's gifts.
 
-On a more serious notice I am currently finishing my M.Sc. in **Atmospheric Sciences** by writing my master thesis at the German aerospace center (DLR) Oberpfaffenhofen. Thanks to Covid I can still live in **Innsbruck** while working on the thesis and spend my free time running, skiing or slacklining in the mountains. Check out my proposal if interested...
+On a more serious notice, I am currently finishing my M.Sc. in **Atmospheric Sciences**. I write my thesis at the German aerospace center (DLR) Oberpfaffenhofen about gravity waves in the stratosphere. Check out my proposal if interested...
 
 {% include my_proposal.html %}
 
-I did my Bachelor degree in **Aerospace Engineering**, but I kind of find it more enjoying to talk about our climate, glaciers and atmosphere, instead of airplanes and rockets. Everything else is the same anyway.
+In addition, I am working for the avalanche warning service Tyrol in **Innsbruck**. Snowpack simulations, postprocessing, visualisation, ... mainly coding and developing new tools for the avalanche forecaster on duty. More info in the research section, too.
+
+
+<!--
+Did my Bachelor in **Aerospace Engineering**, but I kind of find it more enjoying to talk about our climate, glaciers and atmosphere, instead of airplanes and rockets. Everything else is the same anyway.
+
+Hakuna Matata
 
 Super happy with the topic of my thesis so far, but this **artifical intelligence** (AI) thing, everybody is talking about, does not seem too boring either. Would be cool to combine some natural science research with evolved machine learning techniques some day.
 
 Looking forward to new challenges and another well deserved surf trip.
 
-Hakuna Matata
+Thanks to Covid I can still live in **Innsbruck** while working on the thesis and spend my free time running, skiing or slacklining in the mountains.
 
-
-<!--
 and even wrote my thesis at **NASA**
 
 Looking forward to new adventures life is about to deliver.

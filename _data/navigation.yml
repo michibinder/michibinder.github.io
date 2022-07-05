@@ -21,6 +21,12 @@ main:
         url: /photography/slacklife/
       - title: /photography/innsbruck/
         url: /photography/innsbruck/
+      - title: "Mountains"
+        url: /photography/mountains/
+      - title: "Nordkette"
+        url: /photography/nordkette/
+      - title: "Glacier Work"
+        url: /photography/glacier-work/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
