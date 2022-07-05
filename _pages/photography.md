@@ -38,10 +38,10 @@ feature_row2:
     url: "photography/innsbruck/"
 
   feature_row3:
-  - image_path: /images/nordkette/image-2.jpg
+  - image_path: /images/nordkette/image-10.jpg
     image_title: "Nordkette"
     url: "photography/nordkette/"
-  - image_path: /images/mountains/image-5.jpg
+  - image_path: /images/mountains/image-2.jpg
     image_title: "Mountains"
     url: "photography/mountains/"
   - image_path: /images/glacier-work/image-2.jpg
