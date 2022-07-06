@@ -2,6 +2,7 @@
 title: "Research"
 permalink: /research/
 author_profile: true
+classes: wide
 header: 
     overlay_image: "/images/header_images/kalkkögel_misty.jpg"
 ---

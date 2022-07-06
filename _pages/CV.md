@@ -1,6 +1,7 @@
 ---
 title: "CV"
 permalink: /CV/
+classes: wide
 header: 
     overlay_image: "/images/header_images/kalkkögel_morning.jpg"
 ---
