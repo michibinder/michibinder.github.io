@@ -36,17 +36,6 @@ feature_row2:
   - image_path: /images/innsbruck/image-5.jpg
     image_title: "Innsbruck"
     url: "photography/innsbruck/"
-
-  feature_row3:
-  - image_path: /images/nordkette/image-10.jpg
-    image_title: "Nordkette"
-    url: "photography/nordkette/"
-  - image_path: /images/mountains/image-2.jpg
-    image_title: "Mountains"
-    url: "photography/mountains/"
-  - image_path: /images/glacier-work/image-2.jpg
-    image_title: "Glacier Work"
-    url: "photography/glacier-work/"
 ---
 
 {% include feature_row %}
@@ -59,4 +48,14 @@ feature_row2:
 [![Salfeiner See](/images/salfeinerSeeSunset.jpg)](./salfeinerSee/ "Redirect to homepage")
 <a href="./salfeinerSee/">Salfeiner See</a>
 
+  feature_row3:
+  - image_path: /images/nordkette/image-10.jpg
+    image_title: "Nordkette"
+    url: "photography/nordkette/"
+  - image_path: /images/mountains/image-2.jpg
+    image_title: "Mountains"
+    url: "photography/mountains/"
+  - image_path: /images/glacier-work/image-2.jpg
+    image_title: "Glacier Work"
+    url: "photography/glacier-work/"
 -->
