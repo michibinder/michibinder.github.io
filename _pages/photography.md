@@ -36,14 +36,26 @@ feature_row2:
   - image_path: /images/innsbruck/image-5.jpg
     image_title: "Innsbruck"
     url: "photography/innsbruck/"
+
+feature_row3:
+  - image_path: /images/ski/image-5.jpg
+    image_title: "Ski"
+    url: "photography/ski/"
+  - image_path: /images/slacklife/image-5.jpg
+    image_title: "Slacklife"
+    url: "photography/slacklife/"
+  - image_path: /images/innsbruck/image-5.jpg
+    image_title: "Innsbruck"
+    url: "photography/innsbruck/"
 ---
 
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" %}
 
-<!-- 
 {% include feature_row id="feature_row3" %}
+
+<!-- 
 
 [![Salfeiner See](/images/salfeinerSeeSunset.jpg)](./salfeinerSee/ "Redirect to homepage")
 <a href="./salfeinerSee/">Salfeiner See</a>
