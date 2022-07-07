@@ -13,7 +13,7 @@ For now my research interests are quite broad and varied. I enjoy programming an
 **Snowpack modelling for avalanche forecasting**
 
 <p float="center">
-  <img src="/images/research/snow/workflow.png" width="80%" />
+  <img src="/images/research/snow/workflow.png" width="80%" text-align="center" />
 </p>
 
 <p float="center">
@@ -37,7 +37,7 @@ As part of my Master's thesis I tried to reproduce analytical results of the gra
   <img src="/images/research/waves/GWD-linearTheory-Q3D.png" width="80%" />
 </p>
 
-Further analysis of the simulation revealed interesting features of the horizontal momentum flux MFx and the Eliassen and Palm relation for inertia-gravity waves
+Further analysis of those simulations revealed interesting features of the horizontal momentum flux (MFx) and the Eliassen and Palm relation for inertia-gravity waves.
 
 <p float="center">
   <img src="/images/research/waves/inGrav-comp_all.png" width="80%" />
