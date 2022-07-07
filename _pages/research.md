@@ -10,7 +10,7 @@ header:
 For now my research interests are quite broad and varied. I enjoy programming and model development, but observations and data analysis often conclude the package and are just as interesting. Here are some of the topics I am interested into...
 
 
-<font size="8"> **Snowpack modelling for avalanche forecasting** </font>
+<font size="6" weight="bold"> Snowpack modelling for avalanche forecasting </font>
 
 <p style="text-align:center;">
   <img src="/images/research/snow/workflow.png" width="80%"/>
