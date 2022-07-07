@@ -1,6 +1,7 @@
 ---
 title: "Freeride Movies (from the beginning)"
 excerpt: False
+classes: wide
 tagline: ""
 read_time: False
 header: 

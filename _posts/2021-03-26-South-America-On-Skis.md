@@ -1,6 +1,7 @@
 ---
 title:  "South America On Skis"
 excerpt: False
+classes: wide
 tagline: ""
 read_time: False
 header: 

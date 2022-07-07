@@ -1,6 +1,7 @@
 ---
 title: "HIGHER GROUND - Mont Blanc Massif"
 excerpt: False
+classes: wide
 tagline: ""
 read_time: False
 header: 
