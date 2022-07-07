@@ -13,7 +13,7 @@ header:
     overlay_image: "/images/header_images/kalkkögel_night.jpg"
 
 feature_row:
-  - image_path: /images/south_america/image-2.jpg
+  - image_path: /images/south_america/image-12.jpg
     # alt: "Alternative text"
     image_title: "South America on Skis"
     url: "photography/saos/"
