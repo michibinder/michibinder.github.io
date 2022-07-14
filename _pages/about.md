@@ -6,7 +6,7 @@ header:
     overlay_image: "/images/header_images/kalkkögel_sunset.jpg"
 ---
 
-Dreaming of powder turns on one day and clean long surf rides on the other might regularly accompany long office hours. Lucky me, I can just load the van with a pair of skies or surfboard every now and then and chase all these amazing lines and waves Mother Nature has to offer.
+Regularly daydreaming of powder turns or endless surf rides. Lucky me, every now and then I can just load the van with too much gear and pretend to chase these amazing lines and waves Mother Nature provides.
 
 In a time-lapse version my life could be summarized with...
 

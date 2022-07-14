@@ -56,7 +56,7 @@ Further education
 Tennis coach (C-Trainer)
 :   Certified by the WTB/DTB (German tennis association)
 
-Skitouring guide (C-Trainer)
+Skitouring guide (B-Trainer)
 :   Certified by the DSV/DOSB
 
 

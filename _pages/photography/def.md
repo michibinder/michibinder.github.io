@@ -1,5 +1,5 @@
 ---
-permalink: /photography/salfeinerSee/
+permalink: /photography/index/
 author_profile: false
 title: "Salfeiner See"
 layout: splash
