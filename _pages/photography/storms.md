@@ -12,7 +12,14 @@ header:
 gallery:
   - url: /images/storms/image-1.jpg
     image_path: /images/storms/image-1.jpg
-
+  - url: /images/storms/image-2.jpg
+    image_path: /images/storms/image-2.jpg
+  - url: /images/storms/image-3.jpg
+    image_path: /images/storms/image-3.jpg
+  - url: /images/storms/image-4.jpg
+    image_path: /images/storms/image-4.jpg
+  - url: /images/storms/image-5.jpg
+    image_path: /images/storms/image-5.jpg
 ---
 
 {% include gallery %}

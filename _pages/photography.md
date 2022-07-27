@@ -22,7 +22,7 @@ feature_row:
   - image_path: /images/salfeiner_see/image-6.jpg
     image_title: "Salfeiner See"
     url: "photography/salfeinerSee/"
-  - image_path: /images/storms/image-1.jpg
+  - image_path: /images/storms/image-2.jpg
     image_title: "Storms"
     url: "photography/storms/"
 
