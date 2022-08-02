@@ -34,6 +34,8 @@ gallery:
     image_path: /images/glacier-work/image-11.jpg
   - url: /images/glacier-work/image-12.jpg
     image_path: /images/glacier-work/image-12.jpg
+  - url: /images/glacier-work/image-13.jpg
+    image_path: /images/glacier-work/image-13.jpg
     # alt: "placeholder image 3"
     # title: "Image 3 title caption"
 
