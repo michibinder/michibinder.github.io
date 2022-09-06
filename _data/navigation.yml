@@ -6,6 +6,8 @@ main:
     url: /research/
   - title: "CV"
     url: /CV/
+  - title: "Timelapse"
+    url: /timelapse/
   - title: "Photography"
     url: /photography/
     children:
@@ -13,18 +15,25 @@ main:
         url: /photography/salfeinerSee/
       - title: "/South America on Skis"
         url: /photography/saos/
-      - title: /photography/storms/
-        url: /photography/storms/
-      - title: /photography/ski/
-        url: /photography/ski/
+      - title: /photography/lightning/
+        url: /photography/lightning/
+      - title: /photography/snow/
+        url: /photography/snow/
       - title: /photography/slacklife/
         url: /photography/slacklife/
       - title: /photography/viggarspitze/
         url: /photography/viggarspitze/
       - title: "Mountains"
         url: /photography/mountains/
-      - title: "Glacier Work"
+      - title: "Fly stuff"
+        url: /photography/fly/
+      - title: "Waves"
+        url: /photography/waves/
+      - title: "Glacier monitoring"
         url: /photography/glacier-work/
+      - title: "Karwendel"
+        url: /photography/karwendel/
+
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

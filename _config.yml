@@ -95,11 +95,11 @@ analytics:
 author:
   name             : "Michi Binder"
   avatar           : "/images/bio-photo.jpg"
-  bio              : "<p> + Skiing + Slacklining + Surfing <br> 
+  bio              : '"Waves are inspiring not because they rise and fall, but because each time they fall they never fail to rise again" <br> <br> 
                       + Upper atmosphere dynamics <br> 
-                      + Snow and avalanche dynamics </p>"
+                      + Snow and avalanche dynamics'
   location         : "Innsbruck, Austria"
-  email            : # "michael.binder94(at)gmail.com"
+  email            : # "michael.binder94(at)gmail.com" # + Skiing + Slacklining + Surfing <br> 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

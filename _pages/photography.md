@@ -13,6 +13,28 @@ header:
     overlay_image: "/images/header_images/kalkkögel_night.jpg"
 
 feature_row:
+  - image_path: /images/snow/image-7.jpg
+    image_title: "Snow"
+    url: "photography/snow/"
+  - image_path: /images/glacier-work/image-6.jpg
+    image_title: "Glacier monitoring"
+    url: "photography/glacier-work/"
+  - image_path: /images/mountains/image-7.jpg
+    image_title: "Mountains"
+    url: "photography/mountains/"
+
+feature_row2:
+  - image_path: /images/lightning/image-2.jpg
+    image_title: "Lightning"
+    url: "photography/lightning/"
+  - image_path: /images/slacklife/image-1.jpg
+    image_title: "Slacklife"
+    url: "photography/slacklife/"
+  - image_path: /images/fly/image-5.jpg
+    image_title: "Flug Zeug"
+    url: "photography/fly/"
+
+feature_row3:
   - image_path: /images/south_america/image-12.jpg
     # alt: "Alternative text"
     image_title: "South America on Skis"
@@ -22,31 +44,21 @@ feature_row:
   - image_path: /images/salfeiner_see/image-6.jpg
     image_title: "Salfeiner See"
     url: "photography/salfeinerSee/"
-  - image_path: /images/storms/image-2.jpg
-    image_title: "Storms"
-    url: "photography/storms/"
-
-feature_row2:
-  - image_path: /images/ski/image-7.jpg
-    image_title: "Ski"
-    url: "photography/ski/"
-  - image_path: /images/slacklife/image-1.jpg
-    image_title: "Slacklife"
-    url: "photography/slacklife/"
   - image_path: /images/viggarspitze/image-5.jpg
     image_title: "Viggarspitze"
     url: "photography/viggarspitze/"
 
-feature_row3:
-  - image_path: /images/mountains/image-7.jpg
-    image_title: "Mountains"
-    url: "photography/mountains/"
-  - image_path: /images/glacier-work/image-6.jpg
-    image_title: "Work"
-    url: "photography/glacier-work/"
-  - image_path: /images/glacier-work/image-6.jpg
-    image_title: "Work"
-    url: "photography/glacier-work/"
+feature_row4:
+  - image_path: /images/karwendel/image-8.jpg
+    image_title: "Karwendel"
+    url: "photography/karwendel/"
+  - image_path: /images/waves/image-1.jpg
+    image_title: ""
+    url: "photography/waves/"
+  - image_path: /images/waves/image-1.jpg
+    image_title: ""
+    url: "photography/waves/"
+
 ---
 
 {% include feature_row %}
@@ -54,6 +66,8 @@ feature_row3:
 {% include feature_row id="feature_row2" %}
 
 {% include feature_row id="feature_row3" %}
+
+{% include feature_row id="feature_row4" %}
 
 <!-- 
 

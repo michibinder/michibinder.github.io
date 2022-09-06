@@ -6,37 +6,32 @@ header:
     overlay_image: "/images/header_images/kalkkögel_sunset.jpg"
 ---
 
-Regularly daydreaming of powder turns or endless surf rides. Lucky me, every now and then I can just load the van with too much gear and pretend to chase these amazing lines and waves Mother Nature provides.
+"Waves are inspiring not because they rise and fall, But because each time they fall they never fail to rise again" (Ralph Waldo Emerson)
 
-In a time-lapse version my life could be summarized with...
+My life in a time-lapse version:
 
 - Played lots of Tennis during my school days
-- Played more Tennis throughout Europe 
+- Played more Tennis throughout Europe until finishing high school
 - Played College Tennis for the University of Kentucky and University of New Orleans, but more and more injuries restrained myself
-- Went back home to southern Germany and got a Bachelor degree in **Aerospace Engeneering** alongside quite some tennis coaching
-- Played less tennis, which got replaced by skitouring, surfing, slacklining, ...
+- Went back home to southern Germany and got a Bachelor degree in **Aerospace Engeneering** at the University of Stuttgart
+- Played a bit more tennis, but I was mostly coaching/teaching during my Bachelor
+- Then tennis got more and more replaced by skitouring, surfing, slacklining, ...
 - Wrote my Bachelor thesis at NASA Ames in Mountain View, CA, within the SOFIA project
 - Picked up a camera to annoy my fellow people and justify a few more trips 
-- Some traveling through Chile and Argentina for skitouring
+- Some traveling through Chile and Argentina for skitouring with friends
 - Started my Master degree in **Atmospheric Sciences** in Innsbruck
 
 And now... I am finishing my M.Sc. by writing my thesis at the German aerospace center (DLR) Oberpfaffenhofen about gravity waves in the stratosphere.
 
 In addition, I am also working for the avalanche warning service Tyrol in **Innsbruck**. Snowpack simulations and their analysis, visualisation, ... mainly coding and developing new tools for the avalanche forecaster on duty. You can find somewhat more info in the research section.
 
-I hope you like my photographs, but, if not, I can probably handle the disappointment.
+Hopefully, you like my photographs, but, if not, I can handle the disappointment.
 
 <!--
+
+Regularly daydreaming of powder turns or endless surf rides. Lucky me, every now and then I can just load the van with too much gear and pretend to chase these amazing lines and waves Mother Nature provides.
+
 Many interesting things to do, many interesting things to study... 
-
-Time lapse version:
-
-- Tennis + School + Tennis + Soccer + Tennis
-- College Tennis for UK (University of Kentucky) and UNO (University of New Orleans)
-- Bachelor in Aerospace Engeneering and lots of tennis coaching
-- Bachelor thesis at NASA Ames in Mountain View, CA, USA
-- Some traveling through Chile and Argentina for skitouring
-- IBK
 
 A lot has happened to get here
 A pair of skies, a surfboard

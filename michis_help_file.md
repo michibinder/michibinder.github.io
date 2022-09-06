@@ -5,3 +5,5 @@
 - include images from obergurgl sleep
 
 - compress all images of a folder with preview-tools-resolution to 72pixels
+
+- LOCALLY: "jekyll serve"
