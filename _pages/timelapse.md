@@ -10,15 +10,15 @@ header:
 Some timelapse fun every now and then...
 
 
-<p style="text-decoration:underline; font-size:150%;">Karwendel Vibes</p>
-
+<p style="text-decoration:underline; font-size:150%;">Karwendel Vibes</p> 
 work in progress
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XvA-FStdMHY" title="Karwendel Vibes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br/>
+<br/>
 
 <p style="text-decoration:underline; font-size:150%;">South American Skies</p>
-
 A short timelapse movie from our skitouring trip through Chile and Argentina in September 2018.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sq5rkzUaWSY" title="South American Skies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -38,5 +38,3 @@ So many interesting things to do, so many interesting topics to investigate...
 <p><img src="/images/research/snow/QQ-AXLIZ-DEC-FEB-1.png" width="300px" height="200px" alt="GWD"></p>
 
 -->
-
-
