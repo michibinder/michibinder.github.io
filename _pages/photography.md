@@ -27,7 +27,7 @@ feature_row2:
   - image_path: /images/lightning/image-2.jpg
     image_title: "Lightning"
     url: "photography/lightning/"
-  - image_path: /images/slacklife/image-1.jpg
+  - image_path: /images/slacklife/image-01.jpg
     image_title: "Slacklife"
     url: "photography/slacklife/"
   - image_path: /images/fly/image-5.jpg
@@ -49,13 +49,13 @@ feature_row3:
     url: "photography/viggarspitze/"
 
 feature_row4:
-  - image_path: /images/karwendel/image-8.jpg
+  - image_path: /images/karwendel/image-08.jpg
     image_title: "Karwendel"
     url: "photography/karwendel/"
-  - image_path: /images/waves/image-1.jpg
+  - image_path: /images/karwendel/image-01.jpg
     image_title: ""
     url: "photography/waves/"
-  - image_path: /images/waves/image-1.jpg
+  - image_path: /images/karwendel/image-01.jpg
     image_title: ""
     url: "photography/waves/"
 

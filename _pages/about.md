@@ -6,7 +6,7 @@ header:
     overlay_image: "/images/header_images/kalkkögel_sunset.jpg"
 ---
 
-"Waves are inspiring not because they rise and fall, But because each time they fall they never fail to rise again" (Ralph Waldo Emerson)
+"Waves are inspiring not because they rise and fall, but because each time they fall they never fail to rise again" (Ralph Waldo Emerson)
 
 My life in a time-lapse version:
 

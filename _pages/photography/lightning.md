@@ -38,4 +38,4 @@ gallery:
     image_path: /images/lightning/image-13.jpg
 ---
 
-{% include gallery %}
+{% include image-gallery.html folder="/images/lightning" %}
