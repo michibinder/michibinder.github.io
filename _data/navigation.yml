@@ -21,19 +21,25 @@ main:
         url: /photography/snow/
       - title: /photography/slacklife/
         url: /photography/slacklife/
-      - title: /photography/viggarspitze/
-        url: /photography/viggarspitze/
       - title: "Mountains"
         url: /photography/mountains/
       - title: "Fly stuff"
         url: /photography/fly/
       - title: "Waves"
         url: /photography/waves/
-      - title: "Glacier monitoring"
+      - title: "Glacier Monitoring"
         url: /photography/glacier-work/
       - title: "Karwendel"
         url: /photography/karwendel/
+      - title: "Svalbard"
+        url: /photography/svalbard/
+      - title: "Night Skies"
+        url: /photography/night-skies/
+      - title: "Waves"
+        url: /photography/waves/
 
+      # - title: /photography/viggarspitze/
+      #   url: /photography/viggarspitze/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
