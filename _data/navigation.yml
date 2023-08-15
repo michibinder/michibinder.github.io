@@ -23,7 +23,7 @@ main:
         url: /photography/slacklife/
       - title: "Mountains"
         url: /photography/mountains/
-      - title: "Fly stuff"
+      - title: "Flug Zeug"
         url: /photography/fly/
       - title: "Waves"
         url: /photography/waves/
@@ -35,8 +35,6 @@ main:
         url: /photography/svalbard/
       - title: "Night Skies"
         url: /photography/night-skies/
-      - title: "Waves"
-        url: /photography/waves/
 
       # - title: /photography/viggarspitze/
       #   url: /photography/viggarspitze/
