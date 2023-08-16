@@ -25,8 +25,6 @@ main:
         url: /photography/mountains/
       - title: "Flug Zeug"
         url: /photography/fly/
-      - title: "Waves"
-        url: /photography/waves/
       - title: "Glacier Monitoring"
         url: /photography/glacier-work/
       - title: "Karwendel"
@@ -35,6 +33,8 @@ main:
         url: /photography/svalbard/
       - title: "Night Skies"
         url: /photography/night-skies/
+      - title: "Waves"
+        url: /photography/waves/
 
       # - title: /photography/viggarspitze/
       #   url: /photography/viggarspitze/
